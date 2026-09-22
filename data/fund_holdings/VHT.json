@@ -1,0 +1,708 @@
+{
+"fund": "VHT",
+"as_of": "2026-05-31",
+"source": "https://www.sec.gov/Archives/edgar/data/52848/000005284826000886/primary_doc.xml",
+"holdings_count": 407,
+"top_100": [
+{
+"name": "Eli Lilly & Co",
+"ticker": null,
+"isin": "US5324571083",
+"cusip": "532457108",
+"pct": 14.04458479568
+},
+{
+"name": "Johnson & Johnson",
+"ticker": null,
+"isin": "US4781601046",
+"cusip": "478160104",
+"pct": 8.467520093181
+},
+{
+"name": "AbbVie Inc",
+"ticker": null,
+"isin": "US00287Y1091",
+"cusip": "00287Y109",
+"pct": 6.086065116805
+},
+{
+"name": "UnitedHealth Group Inc",
+"ticker": null,
+"isin": "US91324P1021",
+"cusip": "91324P102",
+"pct": 5.449049817299
+},
+{
+"name": "Merck & Co Inc",
+"ticker": null,
+"isin": "US58933Y1055",
+"cusip": "58933Y105",
+"pct": 4.660737699401
+},
+{
+"name": "Thermo Fisher Scientific Inc",
+"ticker": null,
+"isin": "US8835561023",
+"cusip": "883556102",
+"pct": 2.926695392356
+},
+{
+"name": "Amgen Inc",
+"ticker": null,
+"isin": "US0311621009",
+"cusip": "031162100",
+"pct": 2.868372455993
+},
+{
+"name": "Gilead Sciences Inc",
+"ticker": null,
+"isin": "US3755581036",
+"cusip": "375558103",
+"pct": 2.638007785065
+},
+{
+"name": "Intuitive Surgical Inc",
+"ticker": null,
+"isin": "US46120E6023",
+"cusip": "46120E602",
+"pct": 2.380927296919
+},
+{
+"name": "Pfizer Inc",
+"ticker": null,
+"isin": "US7170811035",
+"cusip": "717081103",
+"pct": 2.354283474024
+},
+{
+"name": "Abbott Laboratories",
+"ticker": null,
+"isin": "US0028241000",
+"cusip": "002824100",
+"pct": 2.354140745195
+},
+{
+"name": "Bristol-Myers Squibb Co",
+"ticker": null,
+"isin": "US1101221083",
+"cusip": "110122108",
+"pct": 1.841193239959
+},
+{
+"name": "Danaher Corp",
+"ticker": null,
+"isin": "US2358511028",
+"cusip": "235851102",
+"pct": 1.836609846807
+},
+{
+"name": "CVS Health Corp",
+"ticker": null,
+"isin": "US1266501006",
+"cusip": "126650100",
+"pct": 1.826929533139
+},
+{
+"name": "Vertex Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US92532F1003",
+"cusip": "92532F100",
+"pct": 1.796099633679
+},
+{
+"name": "Stryker Corp",
+"ticker": null,
+"isin": "US8636671013",
+"cusip": "863667101",
+"pct": 1.660629108886
+},
+{
+"name": "Medtronic PLC",
+"ticker": null,
+"isin": "IE00BTN1Y115",
+"cusip": "G5960L103",
+"pct": 1.496361760298
+},
+{
+"name": "McKesson Corp",
+"ticker": null,
+"isin": "US58155Q1031",
+"cusip": "58155Q103",
+"pct": 1.449280144057
+},
+{
+"name": "Elevance Health Inc",
+"ticker": null,
+"isin": "US0367521038",
+"cusip": "036752103",
+"pct": 1.35244043313
+},
+{
+"name": "Cigna Group/The",
+"ticker": null,
+"isin": "US1255231003",
+"cusip": "125523100",
+"pct": 1.17205588209
+},
+{
+"name": "Boston Scientific Corp",
+"ticker": null,
+"isin": "US1011371077",
+"cusip": "101137107",
+"pct": 1.132896559212
+},
+{
+"name": "Regeneron Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US75886F1075",
+"cusip": "75886F107",
+"pct": 1.004437048146
+},
+{
+"name": "HCA Healthcare Inc",
+"ticker": null,
+"isin": "US40412C1018",
+"cusip": "40412C101",
+"pct": 0.956420408895
+},
+{
+"name": "Edwards Lifesciences Corp",
+"ticker": null,
+"isin": "US28176E1082",
+"cusip": "28176E108",
+"pct": 0.793717612329
+},
+{
+"name": "Cencora Inc",
+"ticker": null,
+"isin": "US03073E1055",
+"cusip": "03073E105",
+"pct": 0.785045809107
+},
+{
+"name": "Cardinal Health Inc",
+"ticker": null,
+"isin": "US14149Y1082",
+"cusip": "14149Y108",
+"pct": 0.739488654511
+},
+{
+"name": "IDEXX Laboratories Inc",
+"ticker": null,
+"isin": "US45168D1046",
+"cusip": "45168D104",
+"pct": 0.711754052943
+},
+{
+"name": "Becton Dickinson & Co",
+"ticker": null,
+"isin": "US0758871091",
+"cusip": "075887109",
+"pct": 0.66316391576
+},
+{
+"name": "Alnylam Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US02043Q1076",
+"cusip": "02043Q107",
+"pct": 0.631127710424
+},
+{
+"name": "Agilent Technologies Inc",
+"ticker": null,
+"isin": "US00846U1016",
+"cusip": "00846U101",
+"pct": 0.607729921466
+},
+{
+"name": "Waters Corp",
+"ticker": null,
+"isin": "US9418481035",
+"cusip": "941848103",
+"pct": 0.596784379935
+},
+{
+"name": "Humana Inc",
+"ticker": null,
+"isin": "US4448591028",
+"cusip": "444859102",
+"pct": 0.581161011239
+},
+{
+"name": "Zoetis Inc",
+"ticker": null,
+"isin": "US98978V1035",
+"cusip": "98978V103",
+"pct": 0.541568334851
+},
+{
+"name": "IQVIA Holdings Inc",
+"ticker": null,
+"isin": "US46266C1053",
+"cusip": "46266C105",
+"pct": 0.490997410606
+},
+{
+"name": "Natera Inc",
+"ticker": null,
+"isin": "US6323071042",
+"cusip": "632307104",
+"pct": 0.464560492234
+},
+{
+"name": "Centene Corp",
+"ticker": null,
+"isin": "US15135B1017",
+"cusip": "15135B101",
+"pct": 0.463504038815
+},
+{
+"name": "Dexcom Inc",
+"ticker": null,
+"isin": "US2521311074",
+"cusip": "252131107",
+"pct": 0.45501413303
+},
+{
+"name": "Biogen Inc",
+"ticker": null,
+"isin": "US09062X1037",
+"cusip": "09062X103",
+"pct": 0.454982035388
+},
+{
+"name": "GE HealthCare Technologies Inc",
+"ticker": null,
+"isin": "US36266G1076",
+"cusip": "36266G107",
+"pct": 0.449407819602
+},
+{
+"name": "ResMed Inc",
+"ticker": null,
+"isin": "US7611521078",
+"cusip": "761152107",
+"pct": 0.439951456408
+},
+{
+"name": "Veeva Systems Inc",
+"ticker": null,
+"isin": "US9224751084",
+"cusip": "922475108",
+"pct": 0.430572161661
+},
+{
+"name": "REVOLUTION Medicines Inc",
+"ticker": null,
+"isin": "US76155X1000",
+"cusip": "76155X100",
+"pct": 0.402813302355
+},
+{
+"name": "Illumina Inc",
+"ticker": null,
+"isin": "US4523271090",
+"cusip": "452327109",
+"pct": 0.393681239282
+},
+{
+"name": "Mettler-Toledo International Inc",
+"ticker": null,
+"isin": "US5926881054",
+"cusip": "592688105",
+"pct": 0.381390466981
+},
+{
+"name": "West Pharmaceutical Services Inc",
+"ticker": null,
+"isin": "US9553061055",
+"cusip": "955306105",
+"pct": 0.367459610879
+},
+{
+"name": "Insmed Inc",
+"ticker": null,
+"isin": "US4576693075",
+"cusip": "457669307",
+"pct": 0.360574764638
+},
+{
+"name": "United Therapeutics Corp",
+"ticker": null,
+"isin": "US91307C1027",
+"cusip": "91307C102",
+"pct": 0.360389870282
+},
+{
+"name": "Quest Diagnostics Inc",
+"ticker": null,
+"isin": "US74834L1008",
+"cusip": "74834L100",
+"pct": 0.342949529381
+},
+{
+"name": "Labcorp Holdings Inc",
+"ticker": null,
+"isin": "US5049221055",
+"cusip": "504922105",
+"pct": 0.341030145598
+},
+{
+"name": "STERIS PLC",
+"ticker": null,
+"isin": "IE00BFY8C754",
+"cusip": "G8473T100",
+"pct": 0.330193392717
+},
+{
+"name": "Viatris Inc",
+"ticker": null,
+"isin": "US92556V1061",
+"cusip": "92556V106",
+"pct": 0.296150570155
+},
+{
+"name": "Zimmer Biomet Holdings Inc",
+"ticker": null,
+"isin": "US98956P1021",
+"cusip": "98956P102",
+"pct": 0.258105246428
+},
+{
+"name": "Incyte Corp",
+"ticker": null,
+"isin": "US45337C1027",
+"cusip": "45337C102",
+"pct": 0.255453548091
+},
+{
+"name": "Neurocrine Biosciences Inc",
+"ticker": null,
+"isin": "US64125C1099",
+"cusip": "64125C109",
+"pct": 0.24951187964
+},
+{
+"name": "Tenet Healthcare Corp",
+"ticker": null,
+"isin": "US88033G4073",
+"cusip": "88033G407",
+"pct": 0.243627294167
+},
+{
+"name": "Guardant Health Inc",
+"ticker": null,
+"isin": "US40131M1099",
+"cusip": "40131M109",
+"pct": 0.230229235462
+},
+{
+"name": "Moderna Inc",
+"ticker": null,
+"isin": "US60770K1079",
+"cusip": "60770K107",
+"pct": 0.226446421927
+},
+{
+"name": "Jazz Pharmaceuticals PLC",
+"ticker": null,
+"isin": "IE00B4Q5ZN47",
+"cusip": "G50871105",
+"pct": 0.204508424779
+},
+{
+"name": "Exelixis Inc",
+"ticker": null,
+"isin": "US30161Q1040",
+"cusip": "30161Q104",
+"pct": 0.203270520932
+},
+{
+"name": "Cooper Cos Inc/The",
+"ticker": null,
+"isin": "US2166485019",
+"cusip": "216648501",
+"pct": 0.189624502323
+},
+{
+"name": "Align Technology Inc",
+"ticker": null,
+"isin": "US0162551016",
+"cusip": "016255101",
+"pct": 0.188586884623
+},
+{
+"name": "Revvity Inc",
+"ticker": null,
+"isin": "US7140461093",
+"cusip": "714046109",
+"pct": 0.187530411087
+},
+{
+"name": "Elanco Animal Health Inc",
+"ticker": null,
+"isin": "US28414H1032",
+"cusip": "28414H103",
+"pct": 0.187408636839
+},
+{
+"name": "Penumbra Inc",
+"ticker": null,
+"isin": "US70975L1070",
+"cusip": "70975L107",
+"pct": 0.187230192229
+},
+{
+"name": "Ionis Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US4622221004",
+"cusip": "462222100",
+"pct": 0.186257794593
+},
+{
+"name": "Solventum Corp",
+"ticker": null,
+"isin": "US83444M1018",
+"cusip": "83444M101",
+"pct": 0.184988395573
+},
+{
+"name": "Roivant Sciences Ltd",
+"ticker": null,
+"isin": "BMG762791017",
+"cusip": "G76279101",
+"pct": 0.178190390485
+},
+{
+"name": "Encompass Health Corp",
+"ticker": null,
+"isin": "US29261A1007",
+"cusip": "29261A100",
+"pct": 0.168392859959
+},
+{
+"name": "BioMarin Pharmaceutical Inc",
+"ticker": null,
+"isin": "US09061G1013",
+"cusip": "09061G101",
+"pct": 0.165378754958
+},
+{
+"name": "Insulet Corp",
+"ticker": null,
+"isin": "US45784P1012",
+"cusip": "45784P101",
+"pct": 0.16124801421
+},
+{
+"name": "Medpace Holdings Inc",
+"ticker": null,
+"isin": "US58506Q1094",
+"cusip": "58506Q109",
+"pct": 0.159098046726
+},
+{
+"name": "Vanguard Cmt Funds-Vanguard Market Liquidity Fund",
+"ticker": null,
+"isin": null,
+"cusip": "N/A",
+"pct": 0.1566775848
+},
+{
+"name": "Ensign Group Inc/The",
+"ticker": null,
+"isin": "US29358P1012",
+"cusip": "29358P101",
+"pct": 0.153574784366
+},
+{
+"name": "Baxter International Inc",
+"ticker": null,
+"isin": "US0718131099",
+"cusip": "071813109",
+"pct": 0.152783977244
+},
+{
+"name": "Bridgebio Pharma Inc",
+"ticker": null,
+"isin": "US10806X1028",
+"cusip": "10806X102",
+"pct": 0.151545017178
+},
+{
+"name": "Arrowhead Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US04280A1007",
+"cusip": "04280A100",
+"pct": 0.150710132265
+},
+{
+"name": "Medline Inc",
+"ticker": null,
+"isin": "US58507V1070",
+"cusip": "58507V107",
+"pct": 0.149310802375
+},
+{
+"name": "Globus Medical Inc",
+"ticker": null,
+"isin": "US3795772082",
+"cusip": "379577208",
+"pct": 0.145191756496
+},
+{
+"name": "Cytokinetics Inc",
+"ticker": null,
+"isin": "US23282W6057",
+"cusip": "23282W605",
+"pct": 0.141429061088
+},
+{
+"name": "Molina Healthcare Inc",
+"ticker": null,
+"isin": "US60855R1005",
+"cusip": "60855R100",
+"pct": 0.141161956225
+},
+{
+"name": "Charles River Laboratories International Inc",
+"ticker": null,
+"isin": "US1598641074",
+"cusip": "159864107",
+"pct": 0.14073084028
+},
+{
+"name": "BrightSpring Health Services Inc",
+"ticker": null,
+"isin": "US10950A1060",
+"cusip": "10950A106",
+"pct": 0.14058565786
+},
+{
+"name": "Praxis Precision Medicines Inc",
+"ticker": null,
+"isin": "US74006W2070",
+"cusip": "74006W207",
+"pct": 0.13055522186
+},
+{
+"name": "Axsome Therapeutics Inc",
+"ticker": null,
+"isin": "US05464T1043",
+"cusip": "05464T104",
+"pct": 0.129915163
+},
+{
+"name": "Masimo Corp",
+"ticker": null,
+"isin": "US5747951003",
+"cusip": "574795100",
+"pct": 0.128888874528
+},
+{
+"name": "Henry Schein Inc",
+"ticker": null,
+"isin": "US8064071025",
+"cusip": "806407102",
+"pct": 0.12842421575
+},
+{
+"name": "Universal Health Services Inc",
+"ticker": null,
+"isin": "US9139031002",
+"cusip": "913903100",
+"pct": 0.127659768164
+},
+{
+"name": "Bio-Techne Corp",
+"ticker": null,
+"isin": "US09073M1045",
+"cusip": "09073M104",
+"pct": 0.127460748678
+},
+{
+"name": "Halozyme Therapeutics Inc",
+"ticker": null,
+"isin": "US40637H1095",
+"cusip": "40637H109",
+"pct": 0.123799073691
+},
+{
+"name": "DaVita Inc",
+"ticker": null,
+"isin": "US23918K1088",
+"cusip": "23918K108",
+"pct": 0.119414448188
+},
+{
+"name": "HealthEquity Inc",
+"ticker": null,
+"isin": "US42226A1079",
+"cusip": "42226A107",
+"pct": 0.11893723244
+},
+{
+"name": "Madrigal Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US5588681057",
+"cusip": "558868105",
+"pct": 0.116303346676
+},
+{
+"name": "Krystal Biotech Inc",
+"ticker": null,
+"isin": "US5011471027",
+"cusip": "501147102",
+"pct": 0.106354442193
+},
+{
+"name": "Repligen Corp",
+"ticker": null,
+"isin": "US7599161095",
+"cusip": "759916109",
+"pct": 0.104893236264
+},
+{
+"name": "Alkermes PLC",
+"ticker": null,
+"isin": "IE00B56GVS15",
+"cusip": "G01767105",
+"pct": 0.104727243561
+},
+{
+"name": "Lantheus Holdings Inc",
+"ticker": null,
+"isin": "US5165441032",
+"cusip": "516544103",
+"pct": 0.10426802118
+},
+{
+"name": "Corcept Therapeutics Inc",
+"ticker": null,
+"isin": "US2183521028",
+"cusip": "218352102",
+"pct": 0.104162371483
+},
+{
+"name": "Bruker Corp",
+"ticker": null,
+"isin": "US1167941087",
+"cusip": "116794108",
+"pct": 0.099362331593
+},
+{
+"name": "Avantor Inc",
+"ticker": null,
+"isin": "US05352A1007",
+"cusip": "05352A100",
+"pct": 0.09848928937
+},
+{
+"name": "Vaxcyte Inc",
+"ticker": null,
+"isin": "US92243G1085",
+"cusip": "92243G108",
+"pct": 0.095934769391
+}
+]
+}

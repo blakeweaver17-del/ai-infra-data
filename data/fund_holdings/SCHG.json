@@ -1,0 +1,708 @@
+{
+"fund": "SCHG",
+"as_of": "2026-05-31",
+"source": "https://www.sec.gov/Archives/edgar/data/1454889/000141036826075030/primary_doc.xml",
+"holdings_count": 197,
+"top_100": [
+{
+"name": "NVIDIA Corp",
+"ticker": null,
+"isin": "US67066G1040",
+"cusip": "67066G104",
+"pct": 11.01099004027
+},
+{
+"name": "Apple Inc",
+"ticker": null,
+"isin": "US0378331005",
+"cusip": "037833100",
+"pct": 9.831140148358
+},
+{
+"name": "Microsoft Corp",
+"ticker": null,
+"isin": "US5949181045",
+"cusip": "594918104",
+"pct": 7.172772428368
+},
+{
+"name": "Amazon.com Inc",
+"ticker": null,
+"isin": "US0231351067",
+"cusip": "023135106",
+"pct": 5.67144376129
+},
+{
+"name": "Alphabet Inc",
+"ticker": null,
+"isin": "US02079K3059",
+"cusip": "02079K305",
+"pct": 4.751338319286
+},
+{
+"name": "Broadcom Inc",
+"ticker": null,
+"isin": "US11135F1012",
+"cusip": "11135F101",
+"pct": 4.549310989425
+},
+{
+"name": "Tesla Inc",
+"ticker": null,
+"isin": "US88160R1014",
+"cusip": "88160R101",
+"pct": 3.911159193513
+},
+{
+"name": "Alphabet Inc",
+"ticker": null,
+"isin": "US02079K1079",
+"cusip": "02079K107",
+"pct": 3.776846767848
+},
+{
+"name": "Meta Platforms Inc",
+"ticker": null,
+"isin": "US30303M1027",
+"cusip": "30303M102",
+"pct": 3.454251990903
+},
+{
+"name": "Eli Lilly & Co",
+"ticker": null,
+"isin": "US5324571083",
+"cusip": "532457108",
+"pct": 3.054622356417
+},
+{
+"name": "Advanced Micro Devices Inc",
+"ticker": null,
+"isin": "US0079031078",
+"cusip": "007903107",
+"pct": 2.933958105871
+},
+{
+"name": "Visa Inc",
+"ticker": null,
+"isin": "US92826C8394",
+"cusip": "92826C839",
+"pct": 1.915442281488
+},
+{
+"name": "Costco Wholesale Corp",
+"ticker": null,
+"isin": "US22160K1051",
+"cusip": "22160K105",
+"pct": 1.48233359938
+},
+{
+"name": "Mastercard Inc",
+"ticker": null,
+"isin": "US57636Q1040",
+"cusip": "57636Q104",
+"pct": 1.403876808839
+},
+{
+"name": "Netflix Inc",
+"ticker": null,
+"isin": "US64110L1061",
+"cusip": "64110L106",
+"pct": 1.266190848258
+},
+{
+"name": "Palantir Technologies Inc",
+"ticker": null,
+"isin": "US69608A1088",
+"cusip": "69608A108",
+"pct": 1.247727364813
+},
+{
+"name": "UnitedHealth Group Inc",
+"ticker": null,
+"isin": "US91324P1021",
+"cusip": "91324P102",
+"pct": 1.200456955141
+},
+{
+"name": "General Electric Co",
+"ticker": null,
+"isin": "US3696043013",
+"cusip": "369604301",
+"pct": 1.184113744575
+},
+{
+"name": "GE Vernova Inc",
+"ticker": null,
+"isin": "US36828A1016",
+"cusip": "36828A101",
+"pct": 0.910778472775
+},
+{
+"name": "KLA Corp",
+"ticker": null,
+"isin": "US4824801009",
+"cusip": "482480100",
+"pct": 0.880748057901
+},
+{
+"name": "Linde PLC",
+"ticker": null,
+"isin": "IE000S9YS762",
+"cusip": "000000000",
+"pct": 0.813075473785
+},
+{
+"name": "Palo Alto Networks Inc",
+"ticker": null,
+"isin": "US6974351057",
+"cusip": "697435105",
+"pct": 0.79394215116
+},
+{
+"name": "Thermo Fisher Scientific Inc",
+"ticker": null,
+"isin": "US8835561023",
+"cusip": "883556102",
+"pct": 0.646338241305
+},
+{
+"name": "Crowdstrike Holdings Inc",
+"ticker": null,
+"isin": "US22788C1053",
+"cusip": "22788C105",
+"pct": 0.643290935705
+},
+{
+"name": "Walt Disney Co/The",
+"ticker": null,
+"isin": "US2546871060",
+"cusip": "254687106",
+"pct": 0.631129954698
+},
+{
+"name": "Salesforce Inc",
+"ticker": null,
+"isin": "US79466L3024",
+"cusip": "79466L302",
+"pct": 0.623864946112
+},
+{
+"name": "AppLovin Corp",
+"ticker": null,
+"isin": "US03831W1080",
+"cusip": "03831W108",
+"pct": 0.57868920275
+},
+{
+"name": "Arista Networks Inc",
+"ticker": null,
+"isin": "US0404132054",
+"cusip": "040413205",
+"pct": 0.574496598607
+},
+{
+"name": "Intuitive Surgical Inc",
+"ticker": null,
+"isin": "US46120E6023",
+"cusip": "46120E602",
+"pct": 0.527054843302
+},
+{
+"name": "Blackrock Inc",
+"ticker": null,
+"isin": "US09290D1019",
+"cusip": "09290D101",
+"pct": 0.524125065251
+},
+{
+"name": "Uber Technologies Inc",
+"ticker": null,
+"isin": "US90353T1007",
+"cusip": "90353T100",
+"pct": 0.506389764362
+},
+{
+"name": "Booking Holdings Inc",
+"ticker": null,
+"isin": "US09857L1089",
+"cusip": "09857L108",
+"pct": 0.472007694215
+},
+{
+"name": "ServiceNow Inc",
+"ticker": null,
+"isin": "US81762P1021",
+"cusip": "81762P102",
+"pct": 0.454394496967
+},
+{
+"name": "S&P Global Inc",
+"ticker": null,
+"isin": "US78409V1044",
+"cusip": "78409V104",
+"pct": 0.451399626119
+},
+{
+"name": "Vertiv Holdings Co",
+"ticker": null,
+"isin": "US92537N1081",
+"cusip": "92537N108",
+"pct": 0.420701109312
+},
+{
+"name": "Danaher Corp",
+"ticker": null,
+"isin": "US2358511028",
+"cusip": "235851102",
+"pct": 0.400479008011
+},
+{
+"name": "Vertex Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US92532F1003",
+"cusip": "92532F100",
+"pct": 0.397102339516
+},
+{
+"name": "Progressive Corp/The",
+"ticker": null,
+"isin": "US7433151039",
+"cusip": "743315103",
+"pct": 0.388460249204
+},
+{
+"name": "Parker-Hannifin Corp",
+"ticker": null,
+"isin": "US7010941042",
+"cusip": "701094104",
+"pct": 0.372815419363
+},
+{
+"name": "Adobe Inc",
+"ticker": null,
+"isin": "US00724F1012",
+"cusip": "00724F101",
+"pct": 0.370943047769
+},
+{
+"name": "Quanta Services Inc",
+"ticker": null,
+"isin": "US74762E1029",
+"cusip": "74762E102",
+"pct": 0.370800191523
+},
+{
+"name": "Equinix Inc",
+"ticker": null,
+"isin": "US29444U7000",
+"cusip": "29444U700",
+"pct": 0.367012403773
+},
+{
+"name": "Cadence Design Systems Inc",
+"ticker": null,
+"isin": "US1273871087",
+"cusip": "127387108",
+"pct": 0.356942513635
+},
+{
+"name": "Trane Technologies PLC",
+"ticker": null,
+"isin": "IE00BK9ZQ967",
+"cusip": "000000000",
+"pct": 0.349761569362
+},
+{
+"name": "Intuit Inc",
+"ticker": null,
+"isin": "US4612021034",
+"cusip": "461202103",
+"pct": 0.322138858428
+},
+{
+"name": "Synopsys Inc",
+"ticker": null,
+"isin": "US8716071076",
+"cusip": "871607107",
+"pct": 0.317711452484
+},
+{
+"name": "McKesson Corp",
+"ticker": null,
+"isin": "US58155Q1031",
+"cusip": "58155Q103",
+"pct": 0.317437283834
+},
+{
+"name": "Constellation Energy Corp",
+"ticker": null,
+"isin": "US21037T1097",
+"cusip": "21037T109",
+"pct": 0.312917504109
+},
+{
+"name": "T-Mobile US Inc",
+"ticker": null,
+"isin": "US8725901040",
+"cusip": "872590104",
+"pct": 0.309860997245
+},
+{
+"name": "Snowflake Inc",
+"ticker": null,
+"isin": "US8334451098",
+"cusip": "833445109",
+"pct": 0.30577385633
+},
+{
+"name": "Fortinet Inc",
+"ticker": null,
+"isin": "US34959E1091",
+"cusip": "34959E109",
+"pct": 0.303817326025
+},
+{
+"name": "Marriott International Inc/MD",
+"ticker": null,
+"isin": "US5719032022",
+"cusip": "571903202",
+"pct": 0.287554588272
+},
+{
+"name": "Datadog Inc",
+"ticker": null,
+"isin": "US23804L1035",
+"cusip": "23804L103",
+"pct": 0.284035018672
+},
+{
+"name": "Cloudflare Inc",
+"ticker": null,
+"isin": "US18915M1071",
+"cusip": "18915M107",
+"pct": 0.26798786439
+},
+{
+"name": "Monolithic Power Systems Inc",
+"ticker": null,
+"isin": "US6098391054",
+"cusip": "609839105",
+"pct": 0.267676629198
+},
+{
+"name": "Hilton Worldwide Holdings Inc",
+"ticker": null,
+"isin": "US43300A2033",
+"cusip": "43300A203",
+"pct": 0.264667938215
+},
+{
+"name": "Robinhood Markets Inc",
+"ticker": null,
+"isin": "US7707001027",
+"cusip": "770700102",
+"pct": 0.259572772402
+},
+{
+"name": "O'Reilly Automotive Inc",
+"ticker": null,
+"isin": "US67103H1077",
+"cusip": "67103H107",
+"pct": 0.254730627134
+},
+{
+"name": "Phillips 66",
+"ticker": null,
+"isin": "US7185461040",
+"cusip": "718546104",
+"pct": 0.247549439124
+},
+{
+"name": "TransDigm Group Inc",
+"ticker": null,
+"isin": "US8936411003",
+"cusip": "893641100",
+"pct": 0.246177049693
+},
+{
+"name": "Sherwin-Williams Co/The",
+"ticker": null,
+"isin": "US8243481061",
+"cusip": "824348106",
+"pct": 0.244033002006
+},
+{
+"name": "Moody's Corp",
+"ticker": null,
+"isin": "US6153691059",
+"cusip": "615369105",
+"pct": 0.241704366133
+},
+{
+"name": "Coherent Corp",
+"ticker": null,
+"isin": "US19247G1076",
+"cusip": "19247G107",
+"pct": 0.236442827276
+},
+{
+"name": "Rocket Lab Corp",
+"ticker": null,
+"isin": "US7731211089",
+"cusip": "773121108",
+"pct": 0.236114769981
+},
+{
+"name": "KKR & Co Inc",
+"ticker": null,
+"isin": "US48251W1045",
+"cusip": "48251W104",
+"pct": 0.22952027208
+},
+{
+"name": "Comfort Systems USA Inc",
+"ticker": null,
+"isin": "US1999081045",
+"cusip": "199908104",
+"pct": 0.225153640478
+},
+{
+"name": "Baker Hughes a GE Co LLC",
+"ticker": null,
+"isin": "US05722G1004",
+"cusip": "05722G100",
+"pct": 0.220138472199
+},
+{
+"name": "TE Connectivity PLC",
+"ticker": null,
+"isin": "IE000IVNQZ81",
+"cusip": "000000000",
+"pct": 0.219598042694
+},
+{
+"name": "United Rentals Inc",
+"ticker": null,
+"isin": "US9113631090",
+"cusip": "911363109",
+"pct": 0.219145259048
+},
+{
+"name": "Regeneron Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US75886F1075",
+"cusip": "75886F107",
+"pct": 0.216658663721
+},
+{
+"name": "Apollo Global Management Inc",
+"ticker": null,
+"isin": "US03769M1062",
+"cusip": "03769M106",
+"pct": 0.208053459816
+},
+{
+"name": "DoorDash Inc",
+"ticker": null,
+"isin": "US25809K1051",
+"cusip": "25809K105",
+"pct": 0.207119939482
+},
+{
+"name": "Airbnb Inc",
+"ticker": null,
+"isin": "US0090661010",
+"cusip": "009066101",
+"pct": 0.198329054308
+},
+{
+"name": "Targa Resources Corp",
+"ticker": null,
+"isin": "US87612G1013",
+"cusip": "87612G101",
+"pct": 0.191459541831
+},
+{
+"name": "WW Grainger Inc",
+"ticker": null,
+"isin": "US3848021040",
+"cusip": "384802104",
+"pct": 0.18968161475
+},
+{
+"name": "Carvana Co",
+"ticker": null,
+"isin": "US1468691027",
+"cusip": "146869102",
+"pct": 0.180422848306
+},
+{
+"name": "Strategy Inc",
+"ticker": null,
+"isin": "US5949724083",
+"cusip": "594972408",
+"pct": 0.174435166161
+},
+{
+"name": "Autodesk Inc",
+"ticker": null,
+"isin": "US0527691069",
+"cusip": "052769106",
+"pct": 0.170220904141
+},
+{
+"name": "AutoZone Inc",
+"ticker": null,
+"isin": "US0533321024",
+"cusip": "053332102",
+"pct": 0.169415905073
+},
+{
+"name": "MSCI Inc",
+"ticker": null,
+"isin": "US55354G1004",
+"cusip": "55354G100",
+"pct": 0.16304568929
+},
+{
+"name": "Astera Labs Inc",
+"ticker": null,
+"isin": "US04626A1034",
+"cusip": "04626A103",
+"pct": 0.15851792363
+},
+{
+"name": "IDEXX Laboratories Inc",
+"ticker": null,
+"isin": "US45168D1046",
+"cusip": "45168D104",
+"pct": 0.15572153564
+},
+{
+"name": "Coinbase Global Inc",
+"ticker": null,
+"isin": "US19260Q1076",
+"cusip": "19260Q107",
+"pct": 0.146553492432
+},
+{
+"name": "Block Inc",
+"ticker": null,
+"isin": "US8522341036",
+"cusip": "852234103",
+"pct": 0.144389034988
+},
+{
+"name": "Alnylam Pharmaceuticals Inc",
+"ticker": null,
+"isin": "US02043Q1076",
+"cusip": "02043Q107",
+"pct": 0.139606207109
+},
+{
+"name": "Take-Two Interactive Software Inc",
+"ticker": null,
+"isin": "US8740541094",
+"cusip": "874054109",
+"pct": 0.135789407383
+},
+{
+"name": "Interactive Brokers Group Inc",
+"ticker": null,
+"isin": "US45841N1072",
+"cusip": "45841N107",
+"pct": 0.134895196075
+},
+{
+"name": "Waters Corp",
+"ticker": null,
+"isin": "US9418481035",
+"cusip": "941848103",
+"pct": 0.131418735099
+},
+{
+"name": "Credo Technology Group Holding Ltd",
+"ticker": null,
+"isin": "KYG254571055",
+"cusip": "000000000",
+"pct": 0.130893660526
+},
+{
+"name": "Vulcan Materials Co",
+"ticker": null,
+"isin": "US9291601097",
+"cusip": "929160109",
+"pct": 0.130419077343
+},
+{
+"name": "EMCOR Group Inc",
+"ticker": null,
+"isin": "US29084Q1004",
+"cusip": "29084Q100",
+"pct": 0.129844386071
+},
+{
+"name": "Humana Inc",
+"ticker": null,
+"isin": "US4448591028",
+"cusip": "444859102",
+"pct": 0.128407663916
+},
+{
+"name": "Carnival Corp Ltd",
+"ticker": null,
+"isin": "BMG2004J1036",
+"cusip": "000000000",
+"pct": 0.125702638956
+},
+{
+"name": "Axon Enterprise Inc",
+"ticker": null,
+"isin": "US05464C1018",
+"cusip": "05464C101",
+"pct": 0.12235322412
+},
+{
+"name": "HEICO Corp",
+"ticker": null,
+"isin": "US4228061093",
+"cusip": "422806109",
+"pct": 0.121746773445
+},
+{
+"name": "Martin Marietta Materials Inc",
+"ticker": null,
+"isin": "US5732841060",
+"cusip": "573284106",
+"pct": 0.121421909615
+},
+{
+"name": "Roper Technologies Inc",
+"ticker": null,
+"isin": "US7766961061",
+"cusip": "776696106",
+"pct": 0.120476823222
+},
+{
+"name": "Workday Inc",
+"ticker": null,
+"isin": "US98138H1014",
+"cusip": "98138H101",
+"pct": 0.109530509396
+},
+{
+"name": "Natera Inc",
+"ticker": null,
+"isin": "US6323071042",
+"cusip": "632307104",
+"pct": 0.108013396105
+},
+{
+"name": "IQVIA Holdings Inc",
+"ticker": null,
+"isin": "US46266C1053",
+"cusip": "46266C105",
+"pct": 0.107688454887
+}
+]
+}

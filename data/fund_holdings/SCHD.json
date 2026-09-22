@@ -1,0 +1,708 @@
+{
+"fund": "SCHD",
+"as_of": "2026-05-31",
+"source": "https://www.sec.gov/Archives/edgar/data/1454889/000141036826075040/primary_doc.xml",
+"holdings_count": 102,
+"top_100": [
+{
+"name": "QUALCOMM Inc",
+"ticker": null,
+"isin": "US7475251036",
+"cusip": "747525103",
+"pct": 6.737733132342
+},
+{
+"name": "Texas Instruments Inc",
+"ticker": null,
+"isin": "US8825081040",
+"cusip": "882508104",
+"pct": 5.904722048933
+},
+{
+"name": "UnitedHealth Group Inc",
+"ticker": null,
+"isin": "US91324P1021",
+"cusip": "91324P102",
+"pct": 5.092561094641
+},
+{
+"name": "Coca-Cola Co/The",
+"ticker": null,
+"isin": "US1912161007",
+"cusip": "191216100",
+"pct": 3.95511530408
+},
+{
+"name": "Merck & Co Inc",
+"ticker": null,
+"isin": "US58933Y1055",
+"cusip": "58933Y105",
+"pct": 3.858814558728
+},
+{
+"name": "Chevron Corp",
+"ticker": null,
+"isin": "US1667641005",
+"cusip": "166764100",
+"pct": 3.834515740662
+},
+{
+"name": "Verizon Communications Inc",
+"ticker": null,
+"isin": "US92343V1044",
+"cusip": "92343V104",
+"pct": 3.650705264591
+},
+{
+"name": "Procter & Gamble Co/The",
+"ticker": null,
+"isin": "US7427181091",
+"cusip": "742718109",
+"pct": 3.545513723454
+},
+{
+"name": "ConocoPhillips",
+"ticker": null,
+"isin": "US20825C1045",
+"cusip": "20825C104",
+"pct": 3.512922869853
+},
+{
+"name": "Amgen Inc",
+"ticker": null,
+"isin": "US0311621009",
+"cusip": "031162100",
+"pct": 3.471616027712
+},
+{
+"name": "PepsiCo Inc",
+"ticker": null,
+"isin": "US7134481081",
+"cusip": "713448108",
+"pct": 3.438975603652
+},
+{
+"name": "Home Depot Inc/The",
+"ticker": null,
+"isin": "US4370761029",
+"cusip": "437076102",
+"pct": 3.359081631812
+},
+{
+"name": "Abbott Laboratories",
+"ticker": null,
+"isin": "US0028241000",
+"cusip": "002824100",
+"pct": 2.958950194079
+},
+{
+"name": "Altria Group Inc",
+"ticker": null,
+"isin": "US02209S1033",
+"cusip": "02209S103",
+"pct": 2.93828692123
+},
+{
+"name": "Bristol-Myers Squibb Co",
+"ticker": null,
+"isin": "US1101221083",
+"cusip": "110122108",
+"pct": 2.929342161237
+},
+{
+"name": "Accenture PLC",
+"ticker": null,
+"isin": "IE00B4BNMY34",
+"cusip": "000000000",
+"pct": 2.895602244578
+},
+{
+"name": "Lockheed Martin Corp",
+"ticker": null,
+"isin": "US5398301094",
+"cusip": "539830109",
+"pct": 2.701633601632
+},
+{
+"name": "Automatic Data Processing Inc",
+"ticker": null,
+"isin": "US0530151036",
+"cusip": "053015103",
+"pct": 2.2469801167
+},
+{
+"name": "Comcast Corp",
+"ticker": null,
+"isin": "US20030N1019",
+"cusip": "20030N101",
+"pct": 2.245040258731
+},
+{
+"name": "Blackstone Inc",
+"ticker": null,
+"isin": "US09260D1072",
+"cusip": "09260D107",
+"pct": 2.202997975012
+},
+{
+"name": "SLB Ltd",
+"ticker": null,
+"isin": "AN8068571086",
+"cusip": "806857108",
+"pct": 2.051989250443
+},
+{
+"name": "United Parcel Service Inc",
+"ticker": null,
+"isin": "US9113121068",
+"cusip": "911312106",
+"pct": 1.983355070874
+},
+{
+"name": "EOG Resources Inc",
+"ticker": null,
+"isin": "US26875P1012",
+"cusip": "26875P101",
+"pct": 1.820568533135
+},
+{
+"name": "Ford Motor Co",
+"ticker": null,
+"isin": "US3453708600",
+"cusip": "345370860",
+"pct": 1.71920282116
+},
+{
+"name": "Target Corp",
+"ticker": null,
+"isin": "US87612E1064",
+"cusip": "87612E106",
+"pct": 1.44743877263
+},
+{
+"name": "ONEOK Inc",
+"ticker": null,
+"isin": "US6826801036",
+"cusip": "682680103",
+"pct": 1.328692691683
+},
+{
+"name": "Devon Energy Corp",
+"ticker": null,
+"isin": "US25179M1036",
+"cusip": "25179M103",
+"pct": 1.288551434008
+},
+{
+"name": "Fastenal Co",
+"ticker": null,
+"isin": "US3119001044",
+"cusip": "311900104",
+"pct": 1.276667740073
+},
+{
+"name": "Fifth Third Bancorp",
+"ticker": null,
+"isin": "US3167731005",
+"cusip": "316773100",
+"pct": 1.130495529212
+},
+{
+"name": "Archer-Daniels-Midland Co",
+"ticker": null,
+"isin": "US0394831020",
+"cusip": "039483102",
+"pct": 0.964479487791
+},
+{
+"name": "Kimberly-Clark Corp",
+"ticker": null,
+"isin": "US4943681035",
+"cusip": "494368103",
+"pct": 0.814928610461
+},
+{
+"name": "Paychex Inc",
+"ticker": null,
+"isin": "US7043261079",
+"cusip": "704326107",
+"pct": 0.788140084916
+},
+{
+"name": "Hershey Co/The",
+"ticker": null,
+"isin": "US4278661081",
+"cusip": "427866108",
+"pct": 0.723194325514
+},
+{
+"name": "Ares Management Corp",
+"ticker": null,
+"isin": "US03990B1017",
+"cusip": "03990B101",
+"pct": 0.665976257424
+},
+{
+"name": "Cincinnati Financial Corp",
+"ticker": null,
+"isin": "US1720621010",
+"cusip": "172062101",
+"pct": 0.617801102073
+},
+{
+"name": "Regions Financial Corp",
+"ticker": null,
+"isin": "US7591EP1005",
+"cusip": "7591EP100",
+"pct": 0.611460671031
+},
+{
+"name": "Darden Restaurants Inc",
+"ticker": null,
+"isin": "US2371941053",
+"cusip": "237194105",
+"pct": 0.59068611201
+},
+{
+"name": "T Rowe Price Group Inc",
+"ticker": null,
+"isin": "US74144T1088",
+"cusip": "74144T108",
+"pct": 0.57490658497
+},
+{
+"name": "Principal Financial Group Inc",
+"ticker": null,
+"isin": "US74251V1026",
+"cusip": "74251V102",
+"pct": 0.515742521332
+},
+{
+"name": "Snap-on Inc",
+"ticker": null,
+"isin": "US8330341012",
+"cusip": "833034101",
+"pct": 0.484882959549
+},
+{
+"name": "General Mills Inc",
+"ticker": null,
+"isin": "US3703341046",
+"cusip": "370334104",
+"pct": 0.453578463725
+},
+{
+"name": "Broadridge Financial Solutions Inc",
+"ticker": null,
+"isin": "US11133T1034",
+"cusip": "11133T103",
+"pct": 0.451254623049
+},
+{
+"name": "East West Bancorp Inc",
+"ticker": null,
+"isin": "US27579R1041",
+"cusip": "27579R104",
+"pct": 0.424089869797
+},
+{
+"name": "Best Buy Co Inc",
+"ticker": null,
+"isin": "US0865161014",
+"cusip": "086516101",
+"pct": 0.382121399516
+},
+{
+"name": "APA Corp",
+"ticker": null,
+"isin": "US03743Q1085",
+"cusip": "03743Q108",
+"pct": 0.32505490898
+},
+{
+"name": "Watsco Inc",
+"ticker": null,
+"isin": "US9426222009",
+"cusip": "942622200",
+"pct": 0.322381962524
+},
+{
+"name": "Fidelity National Financial Inc",
+"ticker": null,
+"isin": "US31620R3030",
+"cusip": "31620R303",
+"pct": 0.303700517429
+},
+{
+"name": "Skyworks Solutions Inc",
+"ticker": null,
+"isin": "US83088M1027",
+"cusip": "83088M102",
+"pct": 0.294425946392
+},
+{
+"name": "HF Sinclair Corp",
+"ticker": null,
+"isin": "US4039491000",
+"cusip": "403949100",
+"pct": 0.275104651709
+},
+{
+"name": "Booz Allen Hamilton Holding Corp",
+"ticker": null,
+"isin": "US0995021062",
+"cusip": "099502106",
+"pct": 0.24015273269
+},
+{
+"name": "American Financial Group Inc/OH",
+"ticker": null,
+"isin": "US0259321042",
+"cusip": "025932104",
+"pct": 0.226241891625
+},
+{
+"name": "Columbia Banking System Inc",
+"ticker": null,
+"isin": "US1972361026",
+"cusip": "197236102",
+"pct": 0.22010747041
+},
+{
+"name": "Autoliv Inc",
+"ticker": null,
+"isin": "US0528001094",
+"cusip": "052800109",
+"pct": 0.22005531591
+},
+{
+"name": "Old Republic International Corp",
+"ticker": null,
+"isin": "US6802231042",
+"cusip": "680223104",
+"pct": 0.213127618001
+},
+{
+"name": "Macy's Inc",
+"ticker": null,
+"isin": "US55616P1049",
+"cusip": "55616P104",
+"pct": 0.145436860555
+},
+{
+"name": "Erie Indemnity Co",
+"ticker": null,
+"isin": "US29530P1021",
+"cusip": "29530P102",
+"pct": 0.136344663437
+},
+{
+"name": "Nexstar Media Group Inc",
+"ticker": null,
+"isin": "US65336K1034",
+"cusip": "65336K103",
+"pct": 0.128089103839
+},
+{
+"name": "Bank OZK",
+"ticker": null,
+"isin": "US06417N1037",
+"cusip": "06417N103",
+"pct": 0.126216914154
+},
+{
+"name": "MSC Industrial Direct Co Inc",
+"ticker": null,
+"isin": "US5535301064",
+"cusip": "553530106",
+"pct": 0.125760630655
+},
+{
+"name": "Moelis & Co",
+"ticker": null,
+"isin": "US60786M1053",
+"cusip": "60786M105",
+"pct": 0.125407063517
+},
+{
+"name": "Murphy Oil Corp",
+"ticker": null,
+"isin": "US6267171022",
+"cusip": "626717102",
+"pct": 0.122166958812
+},
+{
+"name": "Vail Resorts Inc",
+"ticker": null,
+"isin": "US91879Q1094",
+"cusip": "91879Q109",
+"pct": 0.120224680599
+},
+{
+"name": "Federated Hermes Inc",
+"ticker": null,
+"isin": "US3142111034",
+"cusip": "314211103",
+"pct": 0.10421683867
+},
+{
+"name": "Korn Ferry",
+"ticker": null,
+"isin": "US5006432000",
+"cusip": "500643200",
+"pct": 0.091963288964
+},
+{
+"name": "Penske Automotive Group Inc",
+"ticker": null,
+"isin": "US70959W1036",
+"cusip": "70959W103",
+"pct": 0.077618006872
+},
+{
+"name": "Robert Half Inc",
+"ticker": null,
+"isin": "US7703231032",
+"cusip": "770323103",
+"pct": 0.073835709317
+},
+{
+"name": "Artisan Partners Asset Management Inc",
+"ticker": null,
+"isin": "US04316A1088",
+"cusip": "04316A108",
+"pct": 0.066594007483
+},
+{
+"name": "CVB Financial Corp",
+"ticker": null,
+"isin": "US1266001056",
+"cusip": "126600105",
+"pct": 0.065499352833
+},
+{
+"name": "Western Union Co/The",
+"ticker": null,
+"isin": "US9598021098",
+"cusip": "959802109",
+"pct": 0.065155848498
+},
+{
+"name": "Marzetti Company/The",
+"ticker": null,
+"isin": "US5138471033",
+"cusip": "513847103",
+"pct": 0.057174326848
+},
+{
+"name": "Banner Corp",
+"ticker": null,
+"isin": "US06652V2088",
+"cusip": "06652V208",
+"pct": 0.05591695147
+},
+{
+"name": "OFG Bancorp",
+"ticker": null,
+"isin": "PR67103X1020",
+"cusip": "67103X102",
+"pct": 0.049715982722
+},
+{
+"name": "Cohen & Steers Inc",
+"ticker": null,
+"isin": "US19247A1007",
+"cusip": "19247A100",
+"pct": 0.048215384277
+},
+{
+"name": "National Bank Holdings Corp",
+"ticker": null,
+"isin": "US6337071046",
+"cusip": "633707104",
+"pct": 0.047261108714
+},
+{
+"name": "City Holding Co",
+"ticker": null,
+"isin": "US1778351056",
+"cusip": "177835105",
+"pct": 0.04509392787
+},
+{
+"name": "State Street Institutional US Government Money Market Fund",
+"ticker": null,
+"isin": "US8574927062",
+"cusip": "857492706",
+"pct": 0.04360476887
+},
+{
+"name": "Interparfums Inc",
+"ticker": null,
+"isin": "US4583341098",
+"cusip": "458334109",
+"pct": 0.043603166141
+},
+{
+"name": "S&T Bancorp Inc",
+"ticker": null,
+"isin": "US7838591011",
+"cusip": "783859101",
+"pct": 0.042293782199
+},
+{
+"name": "Federal Agricultural Mortgage Corp",
+"ticker": null,
+"isin": "US3131483063",
+"cusip": "313148306",
+"pct": 0.041754324309
+},
+{
+"name": "German American Bancorp Inc",
+"ticker": null,
+"isin": "US3738651047",
+"cusip": "373865104",
+"pct": 0.041004781525
+},
+{
+"name": "Flowers Foods Inc",
+"ticker": null,
+"isin": "US3434981011",
+"cusip": "343498101",
+"pct": 0.040405659167
+},
+{
+"name": "Lakeland Financial Corp",
+"ticker": null,
+"isin": "US5116561003",
+"cusip": "511656100",
+"pct": 0.038225628731
+},
+{
+"name": "Clearway Energy Inc",
+"ticker": null,
+"isin": "US18539C2044",
+"cusip": "18539C204",
+"pct": 0.035669999998
+},
+{
+"name": "Buckle Inc/The",
+"ticker": null,
+"isin": "US1184401065",
+"cusip": "118440106",
+"pct": 0.034610357647
+},
+{
+"name": "1st Source Corp",
+"ticker": null,
+"isin": "US3369011032",
+"cusip": "336901103",
+"pct": 0.033750887882
+},
+{
+"name": "Insperity Inc",
+"ticker": null,
+"isin": "US45778Q1076",
+"cusip": "45778Q107",
+"pct": 0.030878511702
+},
+{
+"name": "Wendy's Co/The",
+"ticker": null,
+"isin": "US95058W1009",
+"cusip": "95058W100",
+"pct": 0.030509015828
+},
+{
+"name": "Preferred Bank/Los Angeles CA",
+"ticker": null,
+"isin": "US7403674044",
+"cusip": "740367404",
+"pct": 0.027038163698
+},
+{
+"name": "Virtus Investment Partners Inc",
+"ticker": null,
+"isin": "US92828Q1094",
+"cusip": "92828Q109",
+"pct": 0.022995382249
+},
+{
+"name": "CNA Financial Corp",
+"ticker": null,
+"isin": "US1261171003",
+"cusip": "126117100",
+"pct": 0.022753176009
+},
+{
+"name": "Central Pacific Financial Corp",
+"ticker": null,
+"isin": "US1547604090",
+"cusip": "154760409",
+"pct": 0.022693524127
+},
+{
+"name": "Hanmi Financial Corp",
+"ticker": null,
+"isin": "US4104952043",
+"cusip": "410495204",
+"pct": 0.022399198776
+},
+{
+"name": "First Financial Corp",
+"ticker": null,
+"isin": "US3202181000",
+"cusip": "320218100",
+"pct": 0.020536460559
+},
+{
+"name": "Orrstown Financial Services Inc",
+"ticker": null,
+"isin": "US6873801053",
+"cusip": "687380105",
+"pct": 0.018032330808
+},
+{
+"name": "Independent Bank Corp/MI",
+"ticker": null,
+"isin": "US4538386099",
+"cusip": "453838609",
+"pct": 0.017571855019
+},
+{
+"name": "Oxford Industries Inc",
+"ticker": null,
+"isin": "US6914973093",
+"cusip": "691497309",
+"pct": 0.015533972577
+},
+{
+"name": "Capital City Bank Group Inc",
+"ticker": null,
+"isin": "US1396741050",
+"cusip": "139674105",
+"pct": 0.015463564941
+},
+{
+"name": "AMERISAFE Inc",
+"ticker": null,
+"isin": "US03071H1005",
+"cusip": "03071H100",
+"pct": 0.014561575027
+},
+{
+"name": "Ennis Inc",
+"ticker": null,
+"isin": "US2933891028",
+"cusip": "293389102",
+"pct": 0.013093759333
+},
+{
+"name": "Ethan Allen Interiors Inc",
+"ticker": null,
+"isin": "US2976021046",
+"cusip": "297602104",
+"pct": 0.011925372997
+}
+]
+}
