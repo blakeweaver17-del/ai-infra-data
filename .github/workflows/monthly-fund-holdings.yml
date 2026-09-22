@@ -1,0 +1,27 @@
+name: monthly-fund-holdings
+on:
+  schedule:
+    - cron: "0 13 15 * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: data-commit
+jobs:
+  holdings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/fetch_fund_holdings.py
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "fund holdings $(date -u +%F)"
+          git pull --rebase && git push
