@@ -1,0 +1,929 @@
+{
+"ticker": "CCJ",
+"cik": "0001009001",
+"entity": "CAMECO CORPORATION",
+"fetched_at": "2026-09-22T17:47:30Z",
+"source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001009001.json",
+"items": {
+"revenue": {
+"concept": "ifrs-full:Revenue",
+"values": [
+{
+"start": "2016-01-01",
+"end": "2016-12-31",
+"val": 2431404000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "year"
+},
+{
+"start": "2017-01-01",
+"end": "2017-12-31",
+"val": 2156852000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "year"
+},
+{
+"start": "2018-01-01",
+"end": "2018-12-31",
+"val": 2091661000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "year"
+},
+{
+"start": "2019-01-01",
+"end": "2019-12-31",
+"val": 1862925000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "year"
+},
+{
+"start": "2020-01-01",
+"end": "2020-12-31",
+"val": 1800073000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "year"
+},
+{
+"start": "2021-01-01",
+"end": "2021-12-31",
+"val": 1474984000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "year"
+},
+{
+"start": "2022-01-01",
+"end": "2022-12-31",
+"val": 1868003000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "year"
+},
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 2587758000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 3135772000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 3481933000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+}
+]
+},
+"gross_profit": {
+"concept": "ifrs-full:GrossProfit",
+"values": [
+{
+"start": "2016-01-01",
+"end": "2016-12-31",
+"val": 463480000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "year"
+},
+{
+"start": "2017-01-01",
+"end": "2017-12-31",
+"val": 436274000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "year"
+},
+{
+"start": "2018-01-01",
+"end": "2018-12-31",
+"val": 295748000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "year"
+},
+{
+"start": "2019-01-01",
+"end": "2019-12-31",
+"val": 241625000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "year"
+},
+{
+"start": "2020-01-01",
+"end": "2020-12-31",
+"val": 106449000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "year"
+},
+{
+"start": "2021-01-01",
+"end": "2021-12-31",
+"val": 1934000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "year"
+},
+{
+"start": "2022-01-01",
+"end": "2022-12-31",
+"val": 233291000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "year"
+},
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 561666000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 782582000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 970273000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+}
+]
+},
+"operating_income": {
+"concept": "ifrs-full:ProfitLossFromOperatingActivities",
+"values": [
+{
+"start": "2016-01-01",
+"end": "2016-12-31",
+"val": -141785000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "year"
+},
+{
+"start": "2017-01-01",
+"end": "2017-12-31",
+"val": -127734000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "year"
+},
+{
+"start": "2018-01-01",
+"end": "2018-12-31",
+"val": 70237000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "year"
+},
+{
+"start": "2019-01-01",
+"end": "2019-12-31",
+"val": 92411000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "year"
+},
+{
+"start": "2020-01-01",
+"end": "2020-12-31",
+"val": -78726000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "year"
+},
+{
+"start": "2021-01-01",
+"end": "2021-12-31",
+"val": -136212000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "year"
+},
+{
+"start": "2022-01-01",
+"end": "2022-12-31",
+"val": 15051000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "year"
+},
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 282861000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 510114000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 618142000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+}
+]
+},
+"net_income": {
+"concept": "ifrs-full:ProfitLoss",
+"values": [
+{
+"start": "2016-01-01",
+"end": "2016-12-31",
+"val": -59879000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "year"
+},
+{
+"start": "2017-01-01",
+"end": "2017-12-31",
+"val": -204718000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "year"
+},
+{
+"start": "2018-01-01",
+"end": "2018-12-31",
+"val": 166235000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "year"
+},
+{
+"start": "2019-01-01",
+"end": "2019-12-31",
+"val": 73941000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "year"
+},
+{
+"start": "2020-01-01",
+"end": "2020-12-31",
+"val": -53197000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "year"
+},
+{
+"start": "2021-01-01",
+"end": "2021-12-31",
+"val": -102654000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "year"
+},
+{
+"start": "2022-01-01",
+"end": "2022-12-31",
+"val": 89264000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "year"
+},
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 360816000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 171842000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 589542000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+}
+]
+},
+"operating_cash_flow": {
+"concept": "ifrs-full:CashFlowsFromUsedInOperatingActivities",
+"values": [
+{
+"start": "2016-01-01",
+"end": "2016-12-31",
+"val": 312380000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "year"
+},
+{
+"start": "2017-01-01",
+"end": "2017-12-31",
+"val": 596050000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "year"
+},
+{
+"start": "2018-01-01",
+"end": "2018-12-31",
+"val": 667516000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "year"
+},
+{
+"start": "2019-01-01",
+"end": "2019-12-31",
+"val": 527024000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "year"
+},
+{
+"start": "2020-01-01",
+"end": "2020-12-31",
+"val": 56889000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "year"
+},
+{
+"start": "2021-01-01",
+"end": "2021-12-31",
+"val": 458288000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "year"
+},
+{
+"start": "2022-01-01",
+"end": "2022-12-31",
+"val": 304607000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "year"
+},
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 688136000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 905288000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 1408432000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+}
+]
+},
+"capex": {
+"concept": "ifrs-full:PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+"values": [
+{
+"start": "2016-01-01",
+"end": "2016-12-31",
+"val": 216908000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "year"
+},
+{
+"start": "2017-01-01",
+"end": "2017-12-31",
+"val": 114028000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "year"
+},
+{
+"start": "2018-01-01",
+"end": "2018-12-31",
+"val": 55362000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "year"
+},
+{
+"start": "2019-01-01",
+"end": "2019-12-31",
+"val": 75211000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "year"
+},
+{
+"start": "2020-01-01",
+"end": "2020-12-31",
+"val": 77462000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "year"
+},
+{
+"start": "2021-01-01",
+"end": "2021-12-31",
+"val": 98784000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "year"
+},
+{
+"start": "2022-01-01",
+"end": "2022-12-31",
+"val": 143448000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "year"
+},
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 153631000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 211635000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 333025000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "year"
+}
+]
+},
+"cash": {
+"concept": "ifrs-full:CashAndCashEquivalents",
+"values": [
+{
+"start": null,
+"end": "2015-12-31",
+"val": 458604000,
+"unit": "CAD",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2016-12-31",
+"val": 320278000,
+"unit": "CAD",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2017-12-31",
+"val": 591620000,
+"unit": "CAD",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2018-12-31",
+"val": 711528000,
+"unit": "CAD",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2019-12-31",
+"val": 1062431000,
+"unit": "CAD",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2020-12-31",
+"val": 918382000,
+"unit": "CAD",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2021-12-31",
+"val": 1247447000,
+"unit": "CAD",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2022-12-31",
+"val": 1143674000,
+"unit": "CAD",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2023-12-31",
+"val": 566809000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-12-31",
+"val": 600462000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-12-31",
+"val": 1114860000,
+"unit": "CAD",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "instant"
+}
+]
+},
+"shares_outstanding": {
+"concept": "dei:EntityCommonStockSharesOutstanding",
+"values": [
+{
+"start": null,
+"end": "2017-12-31",
+"val": 395792732,
+"unit": "shares",
+"fy": 2017,
+"fp": "FY",
+"form": "40-F",
+"filed": "2018-03-28",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2018-12-31",
+"val": 395792732,
+"unit": "shares",
+"fy": 2018,
+"fp": "FY",
+"form": "40-F",
+"filed": "2019-03-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2019-12-31",
+"val": 395797732,
+"unit": "shares",
+"fy": 2019,
+"fp": "FY",
+"form": "40-F",
+"filed": "2020-03-27",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2020-12-31",
+"val": 396262741,
+"unit": "shares",
+"fy": 2020,
+"fp": "FY",
+"form": "40-F",
+"filed": "2021-03-19",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2021-12-31",
+"val": 398059265,
+"unit": "shares",
+"fy": 2021,
+"fp": "FY",
+"form": "40-F",
+"filed": "2022-03-22",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2022-12-31",
+"val": 432518470,
+"unit": "shares",
+"fy": 2022,
+"fp": "FY",
+"form": "40-F",
+"filed": "2023-03-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2023-12-31",
+"val": 434175752,
+"unit": "shares",
+"fy": 2023,
+"fp": "FY",
+"form": "40-F",
+"filed": "2024-03-22",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-12-31",
+"val": 435312083,
+"unit": "shares",
+"fy": 2024,
+"fp": "FY",
+"form": "40-F",
+"filed": "2025-03-21",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-12-31",
+"val": 435457978,
+"unit": "shares",
+"fy": 2025,
+"fp": "FY",
+"form": "40-F",
+"filed": "2026-03-19",
+"period": "instant"
+}
+]
+}
+}
+}

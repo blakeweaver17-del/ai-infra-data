@@ -1,0 +1,313 @@
+{
+"ticker": "SPCX",
+"cik": "0001181412",
+"entity": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+"fetched_at": "2026-09-22T17:47:30Z",
+"source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001181412.json",
+"items": {
+"revenue": {
+"concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+"values": [
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 8138000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": 4071000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 12508000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": 7814000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+}
+]
+},
+"operating_income": {
+"concept": "us-gaap:OperatingIncomeLoss",
+"values": [
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": -943000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": -970000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": -2086000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": -143000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+}
+]
+},
+"net_income": {
+"concept": "us-gaap:NetIncomeLoss",
+"values": [
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": -1536000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": -1008000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": -4817000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": -541000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+}
+]
+},
+"operating_cash_flow": {
+"concept": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+"values": [
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 351000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 3466000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+}
+]
+},
+"capex": {
+"concept": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+"values": [
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 6965000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 28476000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+}
+]
+},
+"cash": {
+"concept": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+"values": [
+{
+"start": null,
+"end": "2025-12-31",
+"val": 24747000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-06-30",
+"val": 93522000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "instant"
+}
+]
+},
+"long_term_debt": {
+"concept": "us-gaap:LongTermDebt",
+"values": [
+{
+"start": null,
+"end": "2025-12-31",
+"val": 21659000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-06-30",
+"val": 38285000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "instant"
+}
+]
+},
+"diluted_shares": {
+"concept": "us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding",
+"values": [
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 2902000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": 2929000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 4879000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": 5864000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-04",
+"period": "quarter"
+}
+]
+}
+}
+}

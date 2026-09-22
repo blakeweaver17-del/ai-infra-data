@@ -1,0 +1,1182 @@
+{
+"ticker": "CRWV",
+"cik": "0001769628",
+"entity": "CoreWeave, Inc.",
+"fetched_at": "2026-09-22T17:47:30Z",
+"source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001769628.json",
+"items": {
+"revenue": {
+"concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+"values": [
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 229000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-03-31",
+"val": 188684000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-06-30",
+"val": 584055000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "181d"
+},
+{
+"start": "2024-04-01",
+"end": "2024-06-30",
+"val": 395371000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-09-30",
+"val": 1167996000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "273d"
+},
+{
+"start": "2024-07-01",
+"end": "2024-09-30",
+"val": 583941000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 1915000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-03-31",
+"val": 982000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 2194000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": 1212000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-09-30",
+"val": 3559096000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "272d"
+},
+{
+"start": "2025-07-01",
+"end": "2025-09-30",
+"val": 1364676000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 5131000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2026-01-01",
+"end": "2026-03-31",
+"val": 2078000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 4653000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": 2575000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+}
+]
+},
+"operating_income": {
+"concept": "us-gaap:OperatingIncomeLoss",
+"values": [
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": -14000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-03-31",
+"val": 16847000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-06-30",
+"val": 94568000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "181d"
+},
+{
+"start": "2024-04-01",
+"end": "2024-06-30",
+"val": 77721000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-09-30",
+"val": 211684000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "273d"
+},
+{
+"start": "2024-07-01",
+"end": "2024-09-30",
+"val": 117116000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 324000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-03-31",
+"val": -27000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": -8000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": 19000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-09-30",
+"val": 43589000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "272d"
+},
+{
+"start": "2025-07-01",
+"end": "2025-09-30",
+"val": 51850000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": -46000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2026-01-01",
+"end": "2026-03-31",
+"val": -144000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": -193000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": -49000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+}
+]
+},
+"net_income": {
+"concept": "us-gaap:NetIncomeLoss",
+"values": [
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": -594000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-03-31",
+"val": -129248000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-06-30",
+"val": -452269000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "181d"
+},
+{
+"start": "2024-04-01",
+"end": "2024-06-30",
+"val": -323021000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-09-30",
+"val": -812076000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "273d"
+},
+{
+"start": "2024-07-01",
+"end": "2024-09-30",
+"val": -359807000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": -863000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-03-31",
+"val": -315000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": -605000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": -290000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-09-30",
+"val": -715274000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "272d"
+},
+{
+"start": "2025-07-01",
+"end": "2025-09-30",
+"val": -110124000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": -1167000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2026-01-01",
+"end": "2026-03-31",
+"val": -740000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": -1366000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": -626000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+}
+]
+},
+"operating_cash_flow": {
+"concept": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+"values": [
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 1833000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-03-31",
+"val": 2039038000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-06-30",
+"val": 1921214000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "181d"
+},
+{
+"start": "2024-01-01",
+"end": "2024-09-30",
+"val": 2562436000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "273d"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 2749000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-03-31",
+"val": 61000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": -190000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2025-01-01",
+"end": "2025-09-30",
+"val": 1499051000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "272d"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 3058000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2026-01-01",
+"end": "2026-03-31",
+"val": 2984000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 3663000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+}
+]
+},
+"capex": {
+"concept": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+"values": [
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 2943000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-03-31",
+"val": 1741935000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-06-30",
+"val": 3989096000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "181d"
+},
+{
+"start": "2024-01-01",
+"end": "2024-09-30",
+"val": 5204251000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "273d"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 8702000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-03-31",
+"val": 1407000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 3860000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2025-01-01",
+"end": "2025-09-30",
+"val": 6249239000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "272d"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 10309000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2026-01-01",
+"end": "2026-03-31",
+"val": 7695000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 14117000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+}
+]
+},
+"cash": {
+"concept": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+"values": [
+{
+"start": null,
+"end": "2023-12-31",
+"val": 217000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-03-31",
+"val": 1306872000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-06-30",
+"val": 1028044000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-09-30",
+"val": 1355216000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-12-31",
+"val": 1361000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-03-31",
+"val": 1276000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-06-30",
+"val": 1153000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-09-30",
+"val": 1894399000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-12-31",
+"val": 3127000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-03-31",
+"val": 2244000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-06-30",
+"val": 5524000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "instant"
+}
+]
+},
+"long_term_debt": {
+"concept": "us-gaap:LongTermDebtNoncurrent",
+"values": [
+{
+"start": null,
+"end": "2024-12-31",
+"val": 5458000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-03-31",
+"val": 4935071000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-06-30",
+"val": 7423837000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-09-30",
+"val": 10322757000,
+"unit": "USD",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-12-31",
+"val": 14665000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-03-31",
+"val": 17312000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "instant"
+}
+]
+},
+"diluted_shares": {
+"concept": "us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding",
+"values": [
+{
+"start": "2023-01-01",
+"end": "2023-12-31",
+"val": 192000000,
+"unit": "shares",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2024-01-01",
+"end": "2024-03-31",
+"val": 209228000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2025-05-15",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-06-30",
+"val": 209560000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "181d"
+},
+{
+"start": "2024-04-01",
+"end": "2024-06-30",
+"val": 209626000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2025-08-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-09-30",
+"val": 210889000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "273d"
+},
+{
+"start": "2024-07-01",
+"end": "2024-09-30",
+"val": 213806000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2024-01-01",
+"end": "2024-12-31",
+"val": 218000000,
+"unit": "shares",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2025-01-01",
+"end": "2025-03-31",
+"val": 249000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-06-30",
+"val": 369000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2025-04-01",
+"end": "2025-06-30",
+"val": 487000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-09-30",
+"val": 412178000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "272d"
+},
+{
+"start": "2025-07-01",
+"end": "2025-09-30",
+"val": 497886000,
+"unit": "shares",
+"fy": 2025,
+"fp": "Q3",
+"form": "10-Q",
+"filed": "2025-11-13",
+"period": "quarter"
+},
+{
+"start": "2025-01-01",
+"end": "2025-12-31",
+"val": 436000000,
+"unit": "shares",
+"fy": 2025,
+"fp": "FY",
+"form": "10-K",
+"filed": "2026-03-02",
+"period": "year"
+},
+{
+"start": "2026-01-01",
+"end": "2026-03-31",
+"val": 527000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-05-08",
+"period": "quarter"
+},
+{
+"start": "2026-01-01",
+"end": "2026-06-30",
+"val": 539000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "180d"
+},
+{
+"start": "2026-04-01",
+"end": "2026-06-30",
+"val": 551000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q2",
+"form": "10-Q",
+"filed": "2026-08-12",
+"period": "quarter"
+}
+]
+}
+}
+}

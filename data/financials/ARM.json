@@ -1,0 +1,516 @@
+{
+"ticker": "ARM",
+"cik": "0001973239",
+"entity": "ARM HOLDINGS PLC /UK",
+"fetched_at": "2026-09-22T17:47:30Z",
+"source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001973239.json",
+"items": {
+"revenue": {
+"concept": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 2703000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 2679000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 3233000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 4007000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 4920000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"gross_profit": {
+"concept": "us-gaap:GrossProfit",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 2572000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 2573000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 3079000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 3886000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 4799000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"operating_income": {
+"concept": "us-gaap:OperatingIncomeLoss",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 633000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 671000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 111000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 831000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 900000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"net_income": {
+"concept": "us-gaap:NetIncomeLoss",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 549000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 524000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 306000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 792000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 904000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"operating_cash_flow": {
+"concept": "us-gaap:NetCashProvidedByUsedInOperatingActivities",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 458000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 739000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 1090000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 397000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 1524000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"capex": {
+"concept": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 34000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 64000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 92000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 219000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 545000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"cash": {
+"concept": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+"values": [
+{
+"start": null,
+"end": "2023-03-31",
+"val": 1554000000,
+"unit": "USD",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2024-03-31",
+"val": 1923000000,
+"unit": "USD",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-03-31",
+"val": 2085000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-03-31",
+"val": 2751000000,
+"unit": "USD",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "instant"
+}
+]
+},
+"diluted_shares": {
+"concept": "us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding",
+"values": [
+{
+"start": "2021-04-01",
+"end": "2022-03-31",
+"val": 1025234000,
+"unit": "shares",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "year"
+},
+{
+"start": "2022-04-01",
+"end": "2023-03-31",
+"val": 1028000000,
+"unit": "shares",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "year"
+},
+{
+"start": "2023-04-01",
+"end": "2024-03-31",
+"val": 1044000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2024-04-01",
+"end": "2025-03-31",
+"val": 1063000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+},
+{
+"start": "2025-04-01",
+"end": "2026-03-31",
+"val": 1068000000,
+"unit": "shares",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "year"
+}
+]
+},
+"shares_outstanding": {
+"concept": "dei:EntityCommonStockSharesOutstanding",
+"values": [
+{
+"start": null,
+"end": "2024-03-31",
+"val": 1040330497,
+"unit": "shares",
+"fy": 2024,
+"fp": "FY",
+"form": "20-F",
+"filed": "2024-05-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2025-03-31",
+"val": 1056513738,
+"unit": "shares",
+"fy": 2025,
+"fp": "FY",
+"form": "20-F",
+"filed": "2025-05-28",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-03-31",
+"val": 1064055252,
+"unit": "shares",
+"fy": 2026,
+"fp": "FY",
+"form": "20-F",
+"filed": "2026-05-26",
+"period": "instant"
+}
+]
+}
+}
+}
