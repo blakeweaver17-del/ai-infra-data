@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Picks & Shovels — Market data</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--paper:#F7F9FB;--panel:#fff;--ink:#13233A;--ink2:#4A5B70;--ink3:#7A8899;--rule:#D9E1E9;--rule2:#EDF1F5;--steel:#2F5D8A;--copper:#A8622C;--up:#1F6F4A;--down:#A4262C}
+@media (prefers-color-scheme:dark){:root{--paper:#0F1722;--panel:#16202D;--ink:#E6ECF2;--ink2:#A9B6C4;--ink3:#7D8B9A;--rule:#2A3746;--rule2:#1D2836;--steel:#7FB0DE;--copper:#D99459;--up:#6BC79A;--down:#F08A8F}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Archivo",system-ui,sans-serif;font-size:15px;line-height:1.5;font-variant-numeric:tabular-nums}
+main{max-width:1200px;margin:0 auto;padding:22px 18px 60px}
+h1{font-size:28px;font-weight:760;font-stretch:72%;margin:0}
+h2{font-size:22px;font-weight:740;font-stretch:78%;margin:24px 0 8px}
+.muted{color:var(--ink2)} .src{color:var(--ink3);font-size:12px}
+.tbl{overflow-x:auto;border:1px solid var(--rule);border-radius:6px;background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:7px 10px;border-bottom:1px solid var(--rule2);text-align:left;white-space:nowrap}
+th{color:var(--ink2);font-weight:650;font-size:13px;cursor:pointer;user-select:none}
+td.n,th.n{text-align:right}
+tr.row{cursor:pointer} tr.row:hover td{background:var(--rule2)} tr.sel td{background:var(--rule2)}
+.up{color:var(--up)} .down{color:var(--down)}
+.flag{color:var(--copper);font-weight:650}
+.panel{background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:16px;margin-top:14px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+button.chip{border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:14px;padding:3px 11px;font:inherit;font-size:13px;cursor:pointer}
+button.chip.on{background:var(--ink);color:var(--paper)}
+input{font:inherit;padding:6px 9px;border:1px solid var(--rule);border-radius:4px;background:var(--panel);color:var(--ink)}
+.chartbox{position:relative;height:320px}
+</style>
+</head>
+<body><main>
+<h1>Picks &amp; Shovels — market data</h1>
+<p class="muted" id="meta">Loading…</p>
+<p class="src">Prices stored daily after the close by GitHub Actions. Financials as filed with the SEC (EDGAR XBRL). No estimates. No personal positions are stored here.</p>
+<div class="chips" id="tiers"></div>
+<input id="q" placeholder="Filter by ticker, name or layer" aria-label="Filter">
+<div class="tbl" style="margin-top:10px"><table id="t"></table></div>
+<div id="detail"></div>
+</main>
+<script>
+const $=s=>document.querySelector(s);
+const pct=v=>v==null?"—":`<span class="${v>=0?"up":"down"}">${v>0?"+":""}${v.toFixed(1)}%</span>`;
+const num=(v,d=2)=>v==null?"—":Number(v).toLocaleString(undefined,{minimumFractionDigits:d,maximumFractionDigits:d});
+let DATA=[],tier="all",sortK="ticker",sortD=1,chart=null;
+const COLS=[["ticker","Ticker"],["name","Name"],["layer","Layer"],["date","As of"],["close","Close",1],["chg_1d","1D",1],["chg_5d","5D",1],["chg_1m","1M",1],["chg_ytd","YTD",1],["chg_1y","1Y",1],["from_52w_high","vs 52W high",1],["flags","Flags"]];
+fetch("data/latest.json",{cache:"no-store"}).then(r=>r.json()).then(j=>{
+  DATA=j.tickers;$("#meta").textContent=`Updated ${j.generated_at.replace("T"," ").replace("Z"," UTC")} · ${DATA.length} tickers · flagged: ${j.flagged.join(", ")||"none"}`;
+  const tiers=["all",...new Set(DATA.map(d=>d.tier))];
+  $("#tiers").innerHTML=tiers.map(t=>`<button class="chip ${t==="all"?"on":""}" data-t="${t}">${t==="all"?"All":t}</button>`).join("");
+  draw();
+}).catch(()=>{$("#meta").textContent="No data yet. Run the daily-prices workflow once from the Actions tab.";});
+document.addEventListener("click",e=>{
+  const b=e.target.closest("[data-t]");if(b){tier=b.dataset.t;document.querySelectorAll("[data-t]").forEach(x=>x.classList.toggle("on",x===b));draw();}
+  const h=e.target.closest("th[data-k]");if(h){sortD=sortK===h.dataset.k?-sortD:1;sortK=h.dataset.k;draw();}
+  const r=e.target.closest("tr[data-tk]");if(r){detail(r.dataset.tk);document.querySelectorAll("tr.sel").forEach(x=>x.classList.remove("sel"));r.classList.add("sel");}
+  const rg=e.target.closest("[data-range]");if(rg){renderChart(rg.dataset.range);}
+});
+$("#q").addEventListener("input",draw);
+function draw(){
+  const q=$("#q").value.toLowerCase();
+  let rows=DATA.filter(d=>(tier==="all"||d.tier===tier)&&(!q||(d.ticker+d.name+d.layer).toLowerCase().includes(q)));
+  rows.sort((a,b)=>{const x=a[sortK],y=b[sortK];if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD;});
+  $("#t").innerHTML=`<thead><tr>${COLS.map(([k,l,n])=>`<th data-k="${k}" class="${n?"n":""}">${l}${sortK===k?(sortD>0?" ↑":" ↓"):""}</th>`).join("")}</tr></thead><tbody>${rows.map(d=>`<tr class="row" data-tk="${d.ticker}"><td><b>${d.ticker}</b></td><td>${d.name}</td><td class="muted">${d.layer}</td><td class="muted">${d.date}</td><td class="n">${num(d.close)}</td><td class="n">${pct(d.chg_1d)}</td><td class="n">${pct(d.chg_5d)}</td><td class="n">${pct(d.chg_1m)}</td><td class="n">${pct(d.chg_ytd)}</td><td class="n">${pct(d.chg_1y)}</td><td class="n">${pct(d.from_52w_high)}</td><td class="flag">${d.flags.join("; ")}</td></tr>`).join("")}</tbody>`;
+}
+let SERIES=[],CUR="";
+async function detail(t){
+  CUR=t;$("#detail").innerHTML=`<div class="panel"><h2 style="margin-top:0">${t}</h2><div class="chips">${["1Y","3Y","5Y","MAX"].map(r=>`<button class="chip" data-range="${r}">${r}</button>`).join("")}</div><div class="chartbox"><canvas id="c"></canvas></div><p class="src">Adjusted close (includes dividends and splits).</p><div id="fin"></div></div>`;
+  const txt=await fetch(`data/prices/${t}.csv`,{cache:"no-store"}).then(r=>r.ok?r.text():"");
+  SERIES=txt.trim().split("\n").slice(1).map(l=>{const c=l.split(",");return{d:c[0],v:+(c[5]||c[4])};}).filter(x=>x.v);
+  renderChart("1Y");
+  fetch(`data/financials/${t}.json`,{cache:"no-store"}).then(r=>r.ok?r.json():null).then(showFin).catch(()=>showFin(null));
+}
+function renderChart(r){
+  if(!SERIES.length)return;const last=new Date(SERIES.at(-1).d);const yrs={"1Y":1,"3Y":3,"5Y":5}[r];
+  const s=yrs?SERIES.filter(x=>new Date(x.d)>=new Date(last.getFullYear()-yrs,last.getMonth(),last.getDate())):SERIES;
+  const css=getComputedStyle(document.documentElement);
+  if(chart)chart.destroy();
+  chart=new Chart($("#c"),{type:"line",data:{labels:s.map(x=>x.d),datasets:[{data:s.map(x=>x.v),borderColor:css.getPropertyValue("--steel").trim(),borderWidth:1.5,pointRadius:0,tension:0}]},
+    options:{responsive:true,maintainAspectRatio:false,animation:false,plugins:{legend:{display:false}},scales:{x:{ticks:{maxTicksLimit:8,color:css.getPropertyValue("--ink3").trim()},grid:{display:false}},y:{ticks:{color:css.getPropertyValue("--ink3").trim()},grid:{color:css.getPropertyValue("--rule2").trim()}}}}});
+}
+function showFin(f){
+  const el=$("#fin");if(!f){el.innerHTML=`<p class="muted">No SEC financials for this ticker (not yet fetched, or a foreign filer without tagged data).</p>`;return;}
+  const items=["revenue","gross_profit","operating_income","net_income","operating_cash_flow","capex"];
+  const q=it=>(f.items[it]?.values||[]).filter(v=>v.period==="quarter").slice(-8);
+  const ends=[...new Set(items.flatMap(it=>q(it).map(v=>v.end)))].sort().slice(-8);
+  const unit=(f.items.revenue?.values||[{}]).at(-1)?.unit||"";
+  const cell=(it,e)=>{const v=q(it).find(x=>x.end===e);return v?num(v.val/1e9,2):"—";};
+  el.innerHTML=`<h2>Reported quarterly financials <span class="muted" style="font-size:14px">(${unit}, billions)</span></h2><div class="tbl"><table><thead><tr><th>Line item</th>${ends.map(e=>`<th class="n">${e}</th>`).join("")}</tr></thead><tbody>${items.map(it=>`<tr><td>${it.replace(/_/g," ")}</td>${ends.map(e=>`<td class="n">${cell(it,e)}</td>`).join("")}</tr>`).join("")}<tr><td><b>free cash flow</b> <span class="src">(op. cash flow − capex)</span></td>${ends.map(e=>{const o=q("operating_cash_flow").find(x=>x.end===e),c=q("capex").find(x=>x.end===e);return `<td class="n">${o&&c?num((o.val-c.val)/1e9,2):"—"}</td>`;}).join("")}</tr></tbody></table></div>
+  <p class="src">Source: <a href="${f.source}">SEC EDGAR companyfacts</a> for ${f.entity}, fetched ${f.fetched_at}. Some companies report cash-flow items year-to-date only; those quarters show "—".</p>`;
+}
+</script>
+</body></html>
