@@ -2,7 +2,7 @@
 "ticker": "EME",
 "cik": "0000105634",
 "entity": "EMCOR Group, Inc.",
-"fetched_at": "2026-09-22T17:47:30Z",
+"fetched_at": "2026-09-26T15:37:51Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105634.json",
 "items": {
 "revenue": {

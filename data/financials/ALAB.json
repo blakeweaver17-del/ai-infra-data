@@ -2,7 +2,7 @@
 "ticker": "ALAB",
 "cik": "0001736297",
 "entity": "Astera Labs, Inc.",
-"fetched_at": "2026-09-22T17:47:30Z",
+"fetched_at": "2026-09-26T15:37:51Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001736297.json",
 "items": {
 "revenue": {

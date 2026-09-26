@@ -2,7 +2,7 @@
 "ticker": "MU",
 "cik": "0000723125",
 "entity": "Micron Technology, Inc.",
-"fetched_at": "2026-09-22T17:47:30Z",
+"fetched_at": "2026-09-26T15:37:51Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000723125.json",
 "items": {
 "revenue": {

@@ -2,7 +2,7 @@
 "ticker": "CRWV",
 "cik": "0001769628",
 "entity": "CoreWeave, Inc.",
-"fetched_at": "2026-09-22T17:47:30Z",
+"fetched_at": "2026-09-26T15:37:51Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001769628.json",
 "items": {
 "revenue": {
