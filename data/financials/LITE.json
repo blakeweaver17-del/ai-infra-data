@@ -2,7 +2,7 @@
 "ticker": "LITE",
 "cik": "0001633978",
 "entity": "Lumentum Holdings Inc.",
-"fetched_at": "2026-10-03T15:37:00Z",
+"fetched_at": "2026-10-10T16:51:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001633978.json",
 "items": {
 "revenue": {

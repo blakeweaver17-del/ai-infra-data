@@ -2,7 +2,7 @@
 "ticker": "ACHR",
 "cik": "0001824502",
 "entity": "Archer Aviation Inc.",
-"fetched_at": "2026-10-03T15:37:00Z",
+"fetched_at": "2026-10-10T16:51:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824502.json",
 "items": {
 "revenue": {

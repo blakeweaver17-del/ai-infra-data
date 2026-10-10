@@ -2,7 +2,7 @@
 "ticker": "OKLO",
 "cik": "0001849056",
 "entity": "Oklo Inc.",
-"fetched_at": "2026-10-03T15:37:00Z",
+"fetched_at": "2026-10-10T16:51:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001849056.json",
 "items": {
 "revenue": {
