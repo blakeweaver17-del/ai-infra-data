@@ -2,7 +2,7 @@
 "ticker": "EQIX",
 "cik": "0001101239",
 "entity": "EQUINIX, INC.",
-"fetched_at": "2026-10-10T16:51:09Z",
+"fetched_at": "2026-10-17T14:51:50Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001101239.json",
 "items": {
 "revenue": {

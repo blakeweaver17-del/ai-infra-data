@@ -2,7 +2,7 @@
 "ticker": "CEG",
 "cik": "0001868275",
 "entity": "CONSTELLATION ENERGY CORPORATION",
-"fetched_at": "2026-10-10T16:51:09Z",
+"fetched_at": "2026-10-17T14:51:50Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001868275.json",
 "items": {
 "revenue": {

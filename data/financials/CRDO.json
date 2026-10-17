@@ -2,7 +2,7 @@
 "ticker": "CRDO",
 "cik": "0001807794",
 "entity": "Credo Technology Group Holding Ltd",
-"fetched_at": "2026-10-10T16:51:09Z",
+"fetched_at": "2026-10-17T14:51:50Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001807794.json",
 "items": {
 "revenue": {
