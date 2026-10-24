@@ -2,7 +2,7 @@
 "ticker": "LRCX",
 "cik": "0000707549",
 "entity": "LAM RESEARCH CORPORATION",
-"fetched_at": "2026-10-17T14:51:50Z",
+"fetched_at": "2026-10-24T15:17:15Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json",
 "items": {
 "revenue": {
@@ -1305,10 +1305,10 @@
 "end": "2025-09-28",
 "val": 2684879000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-24",
+"filed": "2026-10-22",
 "period": "quarter"
 },
 {
@@ -1365,6 +1365,17 @@
 "form": "10-K",
 "filed": "2026-08-07",
 "period": "year"
+},
+{
+"start": "2026-06-29",
+"end": "2026-09-27",
+"val": 4298853000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
+"period": "quarter"
 }
 ]
 },
@@ -2465,10 +2476,10 @@
 "end": "2025-09-28",
 "val": 1829088000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-24",
+"filed": "2026-10-22",
 "period": "quarter"
 },
 {
@@ -2525,6 +2536,17 @@
 "form": "10-K",
 "filed": "2026-08-07",
 "period": "year"
+},
+{
+"start": "2026-06-29",
+"end": "2026-09-27",
+"val": 3283727000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
+"period": "quarter"
 }
 ]
 },
@@ -3625,10 +3647,10 @@
 "end": "2025-09-28",
 "val": 1568660000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-24",
+"filed": "2026-10-22",
 "period": "quarter"
 },
 {
@@ -3685,6 +3707,17 @@
 "form": "10-K",
 "filed": "2026-08-07",
 "period": "year"
+},
+{
+"start": "2026-06-29",
+"end": "2026-09-27",
+"val": 2753138000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
+"period": "quarter"
 }
 ]
 },
@@ -4279,10 +4312,10 @@
 "end": "2025-09-28",
 "val": 1778964000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-24",
+"filed": "2026-10-22",
 "period": "quarter"
 },
 {
@@ -4317,6 +4350,17 @@
 "form": "10-K",
 "filed": "2026-08-07",
 "period": "year"
+},
+{
+"start": "2026-06-29",
+"end": "2026-09-27",
+"val": 3497652000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
+"period": "quarter"
 }
 ]
 },
@@ -5065,10 +5109,10 @@
 "end": "2025-09-28",
 "val": 6693046000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-24",
+"filed": "2026-10-22",
 "period": "instant"
 },
 {
@@ -5098,10 +5142,21 @@
 "end": "2026-06-28",
 "val": 5579171000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-07",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-27",
+"val": 7437384000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
 "period": "instant"
 }
 ]
@@ -6637,10 +6692,10 @@
 "end": "2025-09-28",
 "val": 1269313000,
 "unit": "shares",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-24",
+"filed": "2026-10-22",
 "period": "quarter"
 },
 {
@@ -6697,6 +6752,17 @@
 "form": "10-K",
 "filed": "2026-08-07",
 "period": "year"
+},
+{
+"start": "2026-06-29",
+"end": "2026-09-27",
+"val": 1255768000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
+"period": "quarter"
 }
 ]
 },
@@ -7405,6 +7471,17 @@
 "fp": "FY",
 "form": "10-K",
 "filed": "2026-08-07",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-10-20",
+"val": 1249171000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-22",
 "period": "instant"
 }
 ]

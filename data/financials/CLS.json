@@ -2,7 +2,7 @@
 "ticker": "CLS",
 "cik": "0001030894",
 "entity": "CELESTICA INC",
-"fetched_at": "2026-10-17T14:51:50Z",
+"fetched_at": "2026-10-24T15:17:15Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001030894.json",
 "items": {
 "revenue": {
