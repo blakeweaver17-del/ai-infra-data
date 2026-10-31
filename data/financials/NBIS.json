@@ -2,7 +2,7 @@
 "ticker": "NBIS",
 "cik": "0001513845",
 "entity": "NEBIUS GROUP\u00a0N.V.",
-"fetched_at": "2026-10-24T15:17:15Z",
+"fetched_at": "2026-10-31T16:43:02Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001513845.json",
 "items": {
 "revenue": {

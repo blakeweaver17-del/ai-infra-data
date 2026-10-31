@@ -1,8 +1,8 @@
 {
 "ticker": "KLAC",
 "cik": "0000319201",
-"entity": "KLA Corporation",
-"fetched_at": "2026-10-24T15:17:15Z",
+"entity": "KLA CORPORATION",
+"fetched_at": "2026-10-31T16:43:02Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000319201.json",
 "items": {
 "revenue": {
@@ -2272,10 +2272,10 @@
 "end": "2025-09-30",
 "val": 1121040000,
 "unit": "USD",
-"fy": 2026,
-"fp": "Q3",
+"fy": 2027,
+"fp": "Q1",
 "form": "10-Q",
-"filed": "2026-04-30",
+"filed": "2026-10-29",
 "period": "quarter"
 },
 {
@@ -2332,6 +2332,17 @@
 "form": "10-K",
 "filed": "2026-08-06",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 1548588000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
+"period": "quarter"
 }
 ]
 },
@@ -3058,10 +3069,10 @@
 "end": "2025-09-30",
 "val": 1161591000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-31",
+"filed": "2026-10-29",
 "period": "quarter"
 },
 {
@@ -3096,6 +3107,17 @@
 "form": "10-K",
 "filed": "2026-08-06",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 1530939000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
+"period": "quarter"
 }
 ]
 },
@@ -3822,10 +3844,10 @@
 "end": "2025-09-30",
 "val": 95894000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-31",
+"filed": "2026-10-29",
 "period": "quarter"
 },
 {
@@ -3860,6 +3882,17 @@
 "form": "10-K",
 "filed": "2026-08-06",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 194756000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
+"period": "quarter"
 }
 ]
 },
@@ -4630,10 +4663,21 @@
 "end": "2026-06-30",
 "val": 1649842000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-06",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-30",
+"val": 1531950000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
 "period": "instant"
 }
 ]
@@ -6002,12 +6046,12 @@
 {
 "start": "2025-07-01",
 "end": "2025-09-30",
-"val": 132381000,
+"val": 1323808000,
 "unit": "shares",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-31",
+"filed": "2026-10-29",
 "period": "quarter"
 },
 {
@@ -6064,6 +6108,17 @@
 "form": "10-K",
 "filed": "2026-08-06",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 1311064000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
+"period": "quarter"
 }
 ]
 },
@@ -6772,6 +6827,17 @@
 "fp": "FY",
 "form": "10-K",
 "filed": "2026-08-06",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-10-26",
+"val": 1302962435,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-29",
 "period": "instant"
 }
 ]

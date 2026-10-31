@@ -2,7 +2,7 @@
 "ticker": "SPCX",
 "cik": "0001181412",
 "entity": "Space Exploration Technologies Corp.",
-"fetched_at": "2026-10-24T15:17:15Z",
+"fetched_at": "2026-10-31T16:43:02Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001181412.json",
 "items": {
 "revenue": {

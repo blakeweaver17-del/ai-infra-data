@@ -2,7 +2,7 @@
 "ticker": "ASML",
 "cik": "0000937966",
 "entity": "ASML HOLDING NV",
-"fetched_at": "2026-10-24T15:17:15Z",
+"fetched_at": "2026-10-31T16:43:02Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000937966.json",
 "items": {
 "revenue": {

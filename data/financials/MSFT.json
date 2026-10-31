@@ -1,8 +1,8 @@
 {
 "ticker": "MSFT",
 "cik": "0000789019",
-"entity": "Microsoft Corporation",
-"fetched_at": "2026-10-24T15:17:15Z",
+"entity": "MICROSOFT CORPORATION",
+"fetched_at": "2026-10-31T16:43:02Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
 "items": {
 "revenue": {
@@ -1514,10 +1514,10 @@
 "end": "2025-09-30",
 "val": 53630000000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-29",
+"filed": "2026-10-28",
 "period": "quarter"
 },
 {
@@ -1574,6 +1574,17 @@
 "form": "10-K",
 "filed": "2026-07-29",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 62559000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "quarter"
 }
 ]
 },
@@ -2795,10 +2806,10 @@
 "end": "2025-09-30",
 "val": 37961000000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-29",
+"filed": "2026-10-28",
 "period": "quarter"
 },
 {
@@ -2855,6 +2866,17 @@
 "form": "10-K",
 "filed": "2026-07-29",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 45915000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "quarter"
 }
 ]
 },
@@ -4186,10 +4208,10 @@
 "end": "2025-09-30",
 "val": 27747000000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-29",
+"filed": "2026-10-28",
 "period": "quarter"
 },
 {
@@ -4246,6 +4268,17 @@
 "form": "10-K",
 "filed": "2026-07-29",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 36629000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "quarter"
 }
 ]
 },
@@ -5192,10 +5225,10 @@
 "end": "2025-09-30",
 "val": 45057000000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-29",
+"filed": "2026-10-28",
 "period": "quarter"
 },
 {
@@ -5252,6 +5285,17 @@
 "form": "10-K",
 "filed": "2026-07-29",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 58000000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "quarter"
 }
 ]
 },
@@ -6396,10 +6440,10 @@
 "end": "2025-09-30",
 "val": 19394000000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-29",
+"filed": "2026-10-28",
 "period": "quarter"
 },
 {
@@ -6456,6 +6500,17 @@
 "form": "10-K",
 "filed": "2026-07-29",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 39367000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "quarter"
 }
 ]
 },
@@ -7270,10 +7325,21 @@
 "end": "2026-06-30",
 "val": 20935000000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-07-29",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-30",
+"val": 20281000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
 "period": "instant"
 }
 ]
@@ -8034,10 +8100,21 @@
 "end": "2026-06-30",
 "val": 31067000000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-07-29",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-30",
+"val": 31090000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
 "period": "instant"
 }
 ]
@@ -9183,10 +9260,10 @@
 "end": "2025-09-30",
 "val": 7466000000,
 "unit": "shares",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-10-29",
+"filed": "2026-10-28",
 "period": "quarter"
 },
 {
@@ -9243,6 +9320,17 @@
 "form": "10-K",
 "filed": "2026-07-29",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 7446000000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
+"period": "quarter"
 }
 ]
 },
@@ -9995,6 +10083,17 @@
 "fp": "FY",
 "form": "10-K",
 "filed": "2026-07-29",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-10-22",
+"val": 7426194552,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-10-28",
 "period": "instant"
 }
 ]
