@@ -2,7 +2,7 @@
 "ticker": "DLR",
 "cik": "0001297996",
 "entity": "DIGITAL REALTY TRUST, INC.",
-"fetched_at": "2026-10-31T16:43:02Z",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001297996.json",
 "items": {
 "revenue": {

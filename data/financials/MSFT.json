@@ -1,8 +1,8 @@
 {
 "ticker": "MSFT",
 "cik": "0000789019",
-"entity": "MICROSOFT CORPORATION",
-"fetched_at": "2026-10-31T16:43:02Z",
+"entity": "MICROSOFT CORP",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
 "items": {
 "revenue": {

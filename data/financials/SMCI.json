@@ -2,7 +2,7 @@
 "ticker": "SMCI",
 "cik": "0001375365",
 "entity": "Super Micro Computer, Inc.",
-"fetched_at": "2026-10-31T16:43:02Z",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001375365.json",
 "items": {
 "revenue": {
@@ -1294,10 +1294,10 @@
 "end": "2025-09-30",
 "val": 467373000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-07",
+"filed": "2026-11-06",
 "period": "quarter"
 },
 {
@@ -1354,6 +1354,17 @@
 "form": "10-K",
 "filed": "2026-08-31",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 2541043000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "quarter"
 }
 ]
 },
@@ -2366,10 +2377,10 @@
 "end": "2025-09-30",
 "val": 182256000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-07",
+"filed": "2026-11-06",
 "period": "quarter"
 },
 {
@@ -2426,6 +2437,17 @@
 "form": "10-K",
 "filed": "2026-08-31",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 2064493000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "quarter"
 }
 ]
 },
@@ -3515,10 +3537,10 @@
 "end": "2025-09-30",
 "val": 168285000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-07",
+"filed": "2026-11-06",
 "period": "quarter"
 },
 {
@@ -3575,6 +3597,17 @@
 "form": "10-K",
 "filed": "2026-08-31",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 1594205000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "quarter"
 }
 ]
 },
@@ -4257,10 +4290,10 @@
 "end": "2025-09-30",
 "val": -917523000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-07",
+"filed": "2026-11-06",
 "period": "quarter"
 },
 {
@@ -4295,6 +4328,17 @@
 "form": "10-K",
 "filed": "2026-08-31",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": -434021000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "quarter"
 }
 ]
 },
@@ -4977,10 +5021,10 @@
 "end": "2025-09-30",
 "val": 32270000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-07",
+"filed": "2026-11-06",
 "period": "quarter"
 },
 {
@@ -5015,6 +5059,17 @@
 "form": "10-K",
 "filed": "2026-08-31",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 41588000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "quarter"
 }
 ]
 },
@@ -5708,10 +5763,21 @@
 "end": "2026-06-30",
 "val": 7521474000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-31",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-30",
+"val": 6897497000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
 "period": "instant"
 }
 ]
@@ -7181,10 +7247,10 @@
 "end": "2025-09-30",
 "val": 663235000,
 "unit": "shares",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-07",
+"filed": "2026-11-06",
 "period": "quarter"
 },
 {
@@ -7241,6 +7307,17 @@
 "form": "10-K",
 "filed": "2026-08-31",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 749351000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
+"period": "quarter"
 }
 ]
 },
@@ -7795,6 +7872,17 @@
 "fp": "FY",
 "form": "10-K",
 "filed": "2026-08-31",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-10-31",
+"val": 659227367,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-06",
 "period": "instant"
 }
 ]

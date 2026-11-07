@@ -1,8 +1,8 @@
 {
 "ticker": "CCJ",
 "cik": "0001009001",
-"entity": "CAMECO CORPORATION",
-"fetched_at": "2026-10-31T16:43:02Z",
+"entity": "CAMECO CORP",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001009001.json",
 "items": {
 "revenue": {

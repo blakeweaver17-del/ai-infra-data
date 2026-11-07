@@ -2,7 +2,7 @@
 "ticker": "LITE",
 "cik": "0001633978",
 "entity": "Lumentum Holdings Inc.",
-"fetched_at": "2026-10-31T16:43:02Z",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001633978.json",
 "items": {
 "revenue": {
@@ -1052,10 +1052,10 @@
 "end": "2025-09-27",
 "val": 181500000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-03",
 "period": "quarter"
 },
 {
@@ -1112,6 +1112,17 @@
 "form": "10-K",
 "filed": "2026-08-17",
 "period": "year"
+},
+{
+"start": "2026-06-28",
+"end": "2026-09-26",
+"val": 644000000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "quarter"
 }
 ]
 },
@@ -1992,10 +2003,10 @@
 "end": "2025-09-27",
 "val": 6700000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-03",
 "period": "quarter"
 },
 {
@@ -2052,6 +2063,17 @@
 "form": "10-K",
 "filed": "2026-08-17",
 "period": "year"
+},
+{
+"start": "2026-06-28",
+"end": "2026-09-26",
+"val": 359800000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "quarter"
 }
 ]
 },
@@ -2899,10 +2921,10 @@
 "end": "2025-09-27",
 "val": 4200000,
 "unit": "USD",
-"fy": 2026,
-"fp": "Q3",
+"fy": 2027,
+"fp": "Q1",
 "form": "10-Q",
-"filed": "2026-05-06",
+"filed": "2026-11-03",
 "period": "quarter"
 },
 {
@@ -2959,6 +2981,17 @@
 "form": "10-K",
 "filed": "2026-08-17",
 "period": "year"
+},
+{
+"start": "2026-06-28",
+"end": "2026-09-26",
+"val": 360300000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "quarter"
 }
 ]
 },
@@ -3465,10 +3498,10 @@
 "end": "2025-09-27",
 "val": 57900000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-03",
 "period": "quarter"
 },
 {
@@ -3503,6 +3536,17 @@
 "form": "10-K",
 "filed": "2026-08-17",
 "period": "year"
+},
+{
+"start": "2026-06-28",
+"end": "2026-09-26",
+"val": 267700000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "quarter"
 }
 ]
 },
@@ -4020,10 +4064,10 @@
 "end": "2025-09-27",
 "val": 76200000,
 "unit": "USD",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-03",
 "period": "quarter"
 },
 {
@@ -4058,6 +4102,17 @@
 "form": "10-K",
 "filed": "2026-08-17",
 "period": "year"
+},
+{
+"start": "2026-06-28",
+"end": "2026-09-26",
+"val": 229800000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "quarter"
 }
 ]
 },
@@ -4619,10 +4674,21 @@
 "end": "2026-06-27",
 "val": 2043500000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-17",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-26",
+"val": 1272200000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
 "period": "instant"
 }
 ]
@@ -4767,10 +4833,21 @@
 "end": "2026-06-27",
 "val": 40500000,
 "unit": "USD",
-"fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-17",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-26",
+"val": 39300000,
+"unit": "USD",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
 "period": "instant"
 }
 ]
@@ -5597,10 +5674,10 @@
 "end": "2025-09-27",
 "val": 78300000,
 "unit": "shares",
-"fy": 2026,
+"fy": 2027,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-03",
 "period": "quarter"
 },
 {
@@ -5657,6 +5734,17 @@
 "form": "10-K",
 "filed": "2026-08-17",
 "period": "year"
+},
+{
+"start": "2026-06-28",
+"end": "2026-09-26",
+"val": 101700000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
+"period": "quarter"
 }
 ]
 },
@@ -6156,6 +6244,17 @@
 "fp": "FY",
 "form": "10-K",
 "filed": "2026-08-17",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-10-28",
+"val": 90700000,
+"unit": "shares",
+"fy": 2027,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-03",
 "period": "instant"
 }
 ]

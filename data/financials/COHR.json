@@ -1,8 +1,8 @@
 {
 "ticker": "COHR",
 "cik": "0000820318",
-"entity": "COHERENT CORP.",
-"fetched_at": "2026-10-31T16:43:02Z",
+"entity": "Coherent Corp.",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820318.json",
 "items": {
 "revenue": {
@@ -2622,7 +2622,7 @@
 "fy": 2026,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-04",
 "period": "quarter"
 },
 {
@@ -2679,6 +2679,17 @@
 "form": "10-K",
 "filed": "2026-08-14",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 384673000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
+"period": "quarter"
 }
 ]
 },
@@ -3408,7 +3419,7 @@
 "fy": 2026,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-04",
 "period": "quarter"
 },
 {
@@ -3443,6 +3454,17 @@
 "form": "10-K",
 "filed": "2026-08-14",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": -92681000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
+"period": "quarter"
 }
 ]
 },
@@ -4326,7 +4348,7 @@
 "fy": 2026,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-04",
 "period": "quarter"
 },
 {
@@ -4361,6 +4383,17 @@
 "form": "10-K",
 "filed": "2026-08-14",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 775547000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
+"period": "quarter"
 }
 ]
 },
@@ -5068,7 +5101,7 @@
 "fy": 2026,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-04",
 "period": "instant"
 },
 {
@@ -5099,9 +5132,20 @@
 "val": 1162018000,
 "unit": "USD",
 "fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-14",
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-30",
+"val": 1552929000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
 "period": "instant"
 }
 ]
@@ -5786,9 +5830,20 @@
 "val": 3214308000,
 "unit": "USD",
 "fy": 2026,
-"fp": "FY",
-"form": "10-K",
-"filed": "2026-08-14",
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-09-30",
+"val": 3980711000,
+"unit": "USD",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
 "period": "instant"
 }
 ]
@@ -6816,7 +6871,7 @@
 "fy": 2026,
 "fp": "Q1",
 "form": "10-Q",
-"filed": "2025-11-05",
+"filed": "2026-11-04",
 "period": "quarter"
 },
 {
@@ -6873,6 +6928,17 @@
 "form": "10-K",
 "filed": "2026-08-14",
 "period": "year"
+},
+{
+"start": "2026-07-01",
+"end": "2026-09-30",
+"val": 202026000,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
+"period": "quarter"
 }
 ]
 },
@@ -7581,6 +7647,17 @@
 "fp": "FY",
 "form": "10-K",
 "filed": "2026-08-14",
+"period": "instant"
+},
+{
+"start": null,
+"end": "2026-11-02",
+"val": 196958669,
+"unit": "shares",
+"fy": 2026,
+"fp": "Q1",
+"form": "10-Q",
+"filed": "2026-11-04",
 "period": "instant"
 }
 ]

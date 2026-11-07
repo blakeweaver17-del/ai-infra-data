@@ -2,7 +2,7 @@
 "ticker": "GLW",
 "cik": "0000024741",
 "entity": "CORNING INC /NY",
-"fetched_at": "2026-10-31T16:43:02Z",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json",
 "items": {
 "revenue": {

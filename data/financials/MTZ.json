@@ -2,7 +2,7 @@
 "ticker": "MTZ",
 "cik": "0000015615",
 "entity": "MasTec, Inc.",
-"fetched_at": "2026-10-31T16:43:02Z",
+"fetched_at": "2026-11-07T17:20:09Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000015615.json",
 "items": {
 "revenue": {
