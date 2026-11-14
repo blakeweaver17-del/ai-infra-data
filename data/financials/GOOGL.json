@@ -2,7 +2,7 @@
 "ticker": "GOOGL",
 "cik": "0001652044",
 "entity": "Alphabet Inc.",
-"fetched_at": "2026-11-07T17:20:09Z",
+"fetched_at": "2026-11-14T17:36:15Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
 "items": {
 "revenue": {

@@ -2,7 +2,7 @@
 "ticker": "LRCX",
 "cik": "0000707549",
 "entity": "LAM RESEARCH CORPORATION",
-"fetched_at": "2026-11-07T17:20:09Z",
+"fetched_at": "2026-11-14T17:36:15Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json",
 "items": {
 "revenue": {

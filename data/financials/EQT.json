@@ -2,7 +2,7 @@
 "ticker": "EQT",
 "cik": "0000033213",
 "entity": "EQT CORPORATION",
-"fetched_at": "2026-11-07T17:20:09Z",
+"fetched_at": "2026-11-14T17:36:15Z",
 "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000033213.json",
 "items": {
 "revenue": {
